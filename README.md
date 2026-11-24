@@ -1,4 +1,4 @@
-📊 POWER BI PROJECTS PORTFOLIO
+<h1 align="center">📊 POWER BI PROJECTS PORTFOLIO </h1>
 
 <h2 align="center">SATHIYAMOORTHI S</h2>
 
