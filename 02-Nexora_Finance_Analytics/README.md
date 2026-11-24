@@ -1,3 +1,5 @@
+<div align="center">
+    
 # 📊 Nexora Precision Components Ltd. — Finance MIS & Executive Dashboard
 
 ### Power BI Dashboard | Corporate Finance & Management Reporting
@@ -11,6 +13,7 @@
 ![Finance MIS](https://img.shields.io/badge/Finance-MIS-008F83?style=for-the-badge)
 ![Data Analytics](https://img.shields.io/badge/Data-Analytics-4169E1?style=for-the-badge)
 
+</div>
 ---
 
 ## 📌 Project Overview
