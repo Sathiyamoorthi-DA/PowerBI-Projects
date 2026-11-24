@@ -32,7 +32,7 @@ Featuring dynamic metric switching (powered by Field Parameters) and interactive
 
 The Overview Analysis view provides management with a comprehensive view of banking transaction activity through interactive YoY KPI cards, monthly trend charts, transaction status splits, customer segment and gender breakdowns, state-level rankings, and a transaction type heatmap matrix[cite: 23].
 
-<img src="assets/screenshots/01_overview_analysis.png" alt="Banking Transaction Analysis Overview Page" width="100%">
+<img src="Screenshots/Executive.png" alt="Banking Transaction Analysis Overview Page" width="100%">
 
 <br>
 
@@ -40,7 +40,7 @@ The Overview Analysis view provides management with a comprehensive view of bank
 
 The Transactions view provides operations and risk teams with a granular, searchable audit table of individual transactions—displaying Transaction ID, Customer Name, Date, Transaction Type, Status, Gender, Segment, State, Amount, Fees, and Tax alongside top-level KPIs[cite: 24].
 
-<img src="assets/screenshots/02_transactions_details.png" alt="Transactions Detail Table Page" width="100%">
+<img src="Screenshots/Transaction.png" alt="Transactions Detail Table Page" width="100%">
 
 <br>
 
@@ -144,6 +144,44 @@ The project leverages the following tools and technologies:
 | Data Visualization | Conditional heatmap matrices, custom icons, and executive reporting[cite: 23] |
 
 ---
+## 🚀 How to Explore the Project
+
+1. Download or clone this repository.
+2. Open the dataset in Microsoft Excel to explore the source data.
+3. Open the `.pbix` file using Power BI Desktop.
+4. Explore the interactive dashboard.
+5. Use the Financial Year and State filters to analyze different business periods and regions.
+
+## 🎓 Skills Demonstrated
+
+- Financial Data Analysis
+- Banking KPI Analysis
+- Business Intelligence
+- Data Cleaning & Transformation
+- Power Query
+- DAX Measures
+- Data Modeling
+- Interactive Dashboard Development
+- Customer Segmentation
+- Financial Performance Reporting
+- Business Insight Generation
+
+---
+
+## 👨‍💻 Author
+
+**S. Sathiyamoorthi**
+
+Aspiring Data Analyst | Power BI Developer
+Areas of Interest: Financial Analytics | MIS Reporting | Risk & Lending Analytics | Business Intelligence | Data Visualization
+
+📊 Specialization: Financial Analytics | Business Intelligence | Data Visualization
+
+🔗 LinkedIn: [www.linkedin.com/in/sathiyamoorthi-s-mis]
+
+---
+
+⭐ **If you find this project useful, consider giving this repository a star!**
 
 ## 📂 Repository Structure
 
