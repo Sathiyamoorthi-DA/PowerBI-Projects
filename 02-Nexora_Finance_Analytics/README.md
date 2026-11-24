@@ -61,7 +61,7 @@ The Balance Sheet and Ratios view provides management with a holistic view of fi
 <img src="Screenshots/04_balance_sheet_ratios.png" alt="Balance Sheet & Ratios" width="100%">
 
 <br>
----
+
 
 ## 📊 Key Financial Performance Indicators
 
