@@ -181,27 +181,27 @@ Bank-of-Baroda-Executive-Dashboard/
 
 │       ├── Bank_of_Baroda_Executive_Dashboard.png
 
-│       ├── Customer\\\\\\\\\\\\\\\_360.png
+│       ├── Customer_360.png
 
-│       ├── Loan\\\\\\\\\\\\\\\_Credit\\\\\\\\\\\\\\\_Risk.png
+│       ├── Loan_Credit_Risk.png
 
-│       ├── Branch\\\\\\\\\\\\\\\_Region.png
+│       ├── Branch_Region.png
 
-│       └── Customer\\\\\\\\\\\\\\\_Churn.png
+│       └── Customer_Churn.png
 
 │
 
 ├── dataset/
 
-│   └── Bank\\\\\\\\\\\\\\\_of\\\\\\\\\\\\\\\_Baroda\\\\\\\\\\\\\\\_Dataset.xlsx
+│   └── Bank_of_Baroda_Dataset.xlsx
 
 │
 
 └── dashboard/
 
-\\\\\\\&#x20;   ├── Bank\\\\\\\\\\\\\\\_of\\\\\\\\\\\\\\\_Baroda\\\\\\\\\\\\\\\_Executive\\\\\\\\\\\\\\\_Dashboard.pbix
+   ├── Bank_of_Baroda_Executive_Dashboard.pbix
 
-\\\\\\\&#x20;   └── Bank\\\\\\\\\\\\\\\_of\\\\\\\\\\\\\\\_Baroda\\\\\\\\\\\\\\\_Executive\\\\\\\\\\\\\\\_Dashboard.pdf
+   └── Bank_of_Baroda_Customer-360_Dashboard.pdf
 
 ```
 
@@ -243,7 +243,7 @@ Aspiring Data Analyst | Power BI Developer
 
 📊 Specialization: Financial Analytics | Business Intelligence | Data Visualization
 
-🔗 LinkedIn: [Connect with me](https://www.linkedin.com/)
+🔗 LinkedIn: [www.linkedin.com/in/sathiyamoorthi-s-mis]
 
 ---
 
