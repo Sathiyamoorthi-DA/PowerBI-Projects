@@ -35,9 +35,16 @@ It is designed to provide management with a consolidated view of banking operati
 
 ### Executive Banking Dashboard
 
-![Bank of Baroda Executive Dashboard](assets/screenshots/Bank_of_Baroda_Executive_Dashboard.png)
+<img src="Screenshots/Bank%20of%20Baroda%20Executive%20Dashboard.png" alt="BOB Executive Dashboard" width="100%">
 
+<br>
 *An executive-level overview of banking performance, financial KPIs, business mix, customer growth, loan composition, and geographic performance.*
+
+### Customer-360 Dashboard
+
+<img src="Screenshots/Screenshot%202026-11-23%20224314.png" alt="BOB Customer-360 Dashboard" width="100%">
+
+<br>
 
 ---
 
