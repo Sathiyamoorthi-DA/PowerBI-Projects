@@ -38,6 +38,29 @@ The Executive Summary provides management with an overall view of financial perf
 
 <br>
 
+### 02. P&L Statement:
+
+The P&L and Budget Variance view provides management with a detailed breakdown of profitability and cost performance through actual-vs-budget comparisons, operating expense variance analysis, segment EBITDA, and revenue growth trends.
+
+<img src="Screenshot%202026-11-23%20200331.png" alt="P&L Statement" width="100%">
+
+<br>
+
+### 03. Working Capital & Cash Flow:
+
+The Working Capital and Cash Flow view provides management with a clear picture of liquidity and operational efficiency through cash conversion metrics, cash flow bridges, working capital trends, and customer/vendor aging breakdowns.
+
+<img src="Screenshots/Screenshot%202026-11-23%20200411.png" alt="Working Capital & Cash Flow" width="100%">
+
+<br>
+
+### 04 Balance Sheet & Ratios:
+
+The Balance Sheet and Ratios view provides management with a holistic view of financial health and capital efficiency through solvency and return metrics, capital structure trends, capex comparisons, and workforce productivity insights.
+
+<img src="Screenshots/04_balance_sheet_ratios.png" alt="Balance Sheet & Ratios" width="100%">
+
+<br>
 ---
 
 ## 📊 Key Financial Performance Indicators
