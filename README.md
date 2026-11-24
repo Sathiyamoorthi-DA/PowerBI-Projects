@@ -1,5 +1,5 @@
-<p align="center">
-# 📊 POWER BI PROJECTS PORTFOLIO
+<p align="center"># 📊 POWER BI PROJECTS PORTFOLIO
+
 <h2 align="center">SATHIYAMOORTHI S</h2>
 
 <h3 align="center">Business Intelligence | Data Analytics | MIS Reporting</h3>
