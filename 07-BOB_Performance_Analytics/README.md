@@ -10,8 +10,8 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
- ![Banking Analytics](https://img.shields.io/badge/Banking-Analytics-F26522?style=for-the-badge)
- ![Financial MIS](https://img.shields.io/badge/Financial-MIS-003366?style=for-the-badge)
+![Banking Analytics](https://img.shields.io/badge/Banking-Analytics-F26522?style=for-the-badge)
+![Financial MIS](https://img.shields.io/badge/Financial-MIS-003366?style=for-the-badge)
 
 </div>
 
