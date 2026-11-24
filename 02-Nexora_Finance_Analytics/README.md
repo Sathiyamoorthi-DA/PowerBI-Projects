@@ -14,7 +14,7 @@
 ![Data Analytics](https://img.shields.io/badge/Data-Analytics-4169E1?style=for-the-badge)
 
 </div>
----
+
 
 ## 📌 Project Overview
 
@@ -30,11 +30,13 @@ The solution brings multiple financial reporting areas into a centralized execut
 
 ## 🖼️ Dashboard Preview
 
-### 01. Executive Summary
-
-![Nexora Executive Summary](assets/screenshots/01_Executive_summary.png)
+### 01. Executive Summary:
 
 The Executive Summary provides management with an overall view of financial performance through interactive KPI cards, financial trends, budget comparisons, and business insights.
+
+<img src="Screenshots/finance_mis_pages-to-jpg-0001.jpg" alt="Executive Overview Page" width="100%">
+
+<br>
 
 ---
 
@@ -235,7 +237,7 @@ Aspiring Data Analyst | Power BI Developer
 
 **Areas of Interest:** Financial Analytics | MIS Reporting | Business Intelligence | Data Visualization
 
-🔗 LinkedIn: [Connect with me](https://www.linkedin.com/)
+🔗 LinkedIn:[www.linkedin.com/in/sathiyamoorthi-s-mis]
 
 ---
 
