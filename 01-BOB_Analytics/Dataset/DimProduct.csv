@@ -1,0 +1,10 @@
+ProductID,Product,Category
+1,Home Loan,Retail
+2,Personal Loan,Retail
+3,Vehicle Loan,Retail
+4,Corporate Loan,Corporate
+5,MSME Loan,MSME
+6,Agriculture Loan,Agriculture
+7,Infrastructure Loan,Infrastructure
+8,Education Loan,Education
+9,Gold Loan,Agriculture

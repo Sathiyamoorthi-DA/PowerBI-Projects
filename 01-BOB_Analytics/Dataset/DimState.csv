@@ -1,0 +1,37 @@
+StateID,State,StateCode,StateType,Region,Latitude,Longitude,Country
+1,Gujarat,GJ,State,West,22.7,71.6,India
+2,Maharashtra,MH,State,West,19.4,76.0,India
+3,Uttar Pradesh,UP,State,North,26.9,80.9,India
+4,Rajasthan,RJ,State,North,26.6,73.8,India
+5,Delhi,DL,UT,North,28.65,77.2,India
+6,Madhya Pradesh,MP,State,Central,23.5,78.3,India
+7,Karnataka,KA,State,South,14.8,75.7,India
+8,Tamil Nadu,TN,State,South,11.1,78.4,India
+9,Kerala,KL,State,South,10.5,76.4,India
+10,West Bengal,WB,State,East,23.0,87.9,India
+11,Haryana,HR,State,North,29.0,76.1,India
+12,Punjab,PB,State,North,31.0,75.4,India
+13,Bihar,BR,State,East,25.7,85.6,India
+14,Telangana,TG,State,South,17.9,79.1,India
+15,Andhra Pradesh,AP,State,South,15.9,79.7,India
+16,Odisha,OD,State,East,20.5,84.4,India
+17,Chhattisgarh,CG,State,Central,21.3,81.9,India
+18,Jharkhand,JH,State,East,23.6,85.3,India
+19,Uttarakhand,UK,State,North,30.1,79.2,India
+20,Assam,AS,State,Northeast,26.4,92.9,India
+21,Himachal Pradesh,HP,State,North,31.9,77.2,India
+22,Jammu and Kashmir,JK,UT,North,33.8,75.0,India
+23,Goa,GA,State,West,15.3,74.0,India
+24,Chandigarh,CH,UT,North,30.73,76.78,India
+25,Puducherry,PY,UT,South,11.9,79.8,India
+26,Tripura,TR,State,Northeast,23.8,91.7,India
+27,Meghalaya,ML,State,Northeast,25.5,91.4,India
+28,Manipur,MN,State,Northeast,24.7,93.9,India
+29,Nagaland,NL,State,Northeast,26.1,94.5,India
+30,Arunachal Pradesh,AR,State,Northeast,28.2,94.7,India
+31,Mizoram,MZ,State,Northeast,23.2,92.8,India
+32,Sikkim,SK,State,Northeast,27.5,88.5,India
+33,Dadra and Nagar Haveli and Daman and Diu,DD,UT,West,20.4,72.9,India
+34,Andaman and Nicobar Islands,AN,UT,East,11.7,92.7,India
+35,Ladakh,LA,UT,North,34.2,77.6,India
+36,Lakshadweep,LD,UT,South,10.6,72.6,India

@@ -1,0 +1,1201 @@
+restaurant_id,restaurant_name,city,state,cuisine,restaurant_type,onboarded_date
+1001,Golden Bowl 68158,Chennai,Tamil Nadu,Chinese,Cafe,2022-04-12
+1002,Royal Point 28754,Mumbai,Maharashtra,Chinese,Quick Service,2023-09-09
+1003,Chai Cravings 26518,Ahmedabad,Gujarat,Pizza,Quick Service,2021-10-16
+1004,Royal Junction 13089,Pune,Maharashtra,South Indian,Quick Service,2022-10-09
+1005,Spice Darbar 00519,Bengaluru,Karnataka,North Indian,Quick Service,2023-10-12
+1006,Bombay Darbar 50170,Lucknow,Uttar Pradesh,North Indian,Casual Dining,2022-03-01
+1007,Sweet Tales 98676,Chennai,Tamil Nadu,Chinese,Cafe,2022-02-26
+1008,Golden Kitchen 22082,Kolkata,West Bengal,Chinese,Casual Dining,2022-11-10
+1009,Dosa Express 44071,Bengaluru,Karnataka,North Indian,Casual Dining,2023-03-28
+1010,Masala Bowl 93560,Mumbai,Maharashtra,Biryani,Quick Service,2023-12-17
+1011,Little Hub 77253,Mumbai,Maharashtra,Fast Food,Quick Service,2021-10-06
+1012,Sweet Corner 00499,Jaipur,Rajasthan,Pizza,Quick Service,2023-07-20
+1013,Royal Express 50109,Pune,Maharashtra,Chinese,Casual Dining,2021-12-04
+1014,Saffron Cravings 14405,Kolkata,West Bengal,Biryani,Casual Dining,2022-07-21
+1015,Wok Zaika 24776,Mumbai,Maharashtra,North Indian,Casual Dining,2022-04-25
+1016,Royal Tales 24722,New Delhi,Delhi,Chinese,Casual Dining,2022-04-17
+1017,Royal Hub 61285,Hyderabad,Telangana,Biryani,Casual Dining,2021-11-20
+1018,Green Cravings 19975,Bengaluru,Karnataka,Chinese,Casual Dining,2023-12-02
+1019,Urban Bistro 25261,Kolkata,West Bengal,South Indian,Casual Dining,2021-07-23
+1020,Saffron Hub 22655,Pune,Maharashtra,North Indian,Quick Service,2023-11-24
+1021,Curry Tales 35752,Chennai,Tamil Nadu,North Indian,Fine Dining,2021-07-16
+1022,Green Kitchen 65638,New Delhi,Delhi,North Indian,Casual Dining,2023-05-11
+1023,Masala Corner 40056,Lucknow,Uttar Pradesh,Burger,Quick Service,2021-12-01
+1024,Curry Tales 32818,Ahmedabad,Gujarat,South Indian,Casual Dining,2023-10-18
+1025,Chai Bowl 51807,Chennai,Tamil Nadu,North Indian,Quick Service,2022-11-13
+1026,Wok Treats 61540,Bengaluru,Karnataka,Burger,Quick Service,2022-09-01
+1027,Masala Junction 01634,Mumbai,Maharashtra,Biryani,Fine Dining,2021-08-26
+1028,Madras Tales 89035,Bengaluru,Karnataka,Biryani,Quick Service,2023-09-12
+1029,Delhi Zaika 91650,Bengaluru,Karnataka,Burger,Quick Service,2023-11-30
+1030,Punjabi Bowl 60294,Pune,Maharashtra,North Indian,Quick Service,2022-05-28
+1031,Masala Bistro 57502,Chennai,Tamil Nadu,North Indian,Quick Service,2023-11-18
+1032,Golden Kitchen 69483,Lucknow,Uttar Pradesh,Chinese,Quick Service,2022-02-01
+1033,Curry Hub 44141,New Delhi,Delhi,North Indian,Casual Dining,2023-11-28
+1034,Cafe Darbar 36613,Mumbai,Maharashtra,South Indian,Casual Dining,2021-08-11
+1035,Masala Cravings 35333,Mumbai,Maharashtra,North Indian,Casual Dining,2022-09-09
+1036,Wok Tales 16057,Bengaluru,Karnataka,North Indian,Quick Service,2021-08-31
+1037,Curry Corner 84131,Bengaluru,Karnataka,North Indian,Casual Dining,2023-09-10
+1038,Chai Treats 32126,Mumbai,Maharashtra,Biryani,Quick Service,2023-04-30
+1039,Curry Zaika 28511,New Delhi,Delhi,North Indian,Casual Dining,2022-11-18
+1040,Biryani Junction 96430,Pune,Maharashtra,North Indian,Quick Service,2023-12-06
+1041,Biryani Darbar 50719,Mumbai,Maharashtra,Pizza,Quick Service,2023-10-01
+1042,Delhi Point 62218,Kolkata,West Bengal,Biryani,Casual Dining,2023-03-11
+1043,Tandoori Bloom 24619,Chennai,Tamil Nadu,Biryani,Casual Dining,2022-03-09
+1044,Curry Bloom 27823,New Delhi,Delhi,North Indian,Casual Dining,2022-04-04
+1045,Dosa Hub 72860,Kolkata,West Bengal,Biryani,Casual Dining,2023-10-15
+1046,Punjabi Bowl 45145,Kolkata,West Bengal,North Indian,Casual Dining,2023-11-09
+1047,Curry Point 14859,Mumbai,Maharashtra,Chinese,Fine Dining,2022-05-21
+1048,Green Kitchen 83566,New Delhi,Delhi,North Indian,Casual Dining,2023-02-12
+1049,Delhi Tales 40335,Pune,Maharashtra,Pizza,Quick Service,2022-01-19
+1050,Biryani Point 66876,Bengaluru,Karnataka,Burger,Quick Service,2023-04-08
+1051,Saffron Corner 34192,Bengaluru,Karnataka,North Indian,Casual Dining,2023-02-09
+1052,Saffron Tales 56108,Bengaluru,Karnataka,North Indian,Cafe,2023-06-18
+1053,Urban Tales 77584,Kolkata,West Bengal,North Indian,Casual Dining,2023-05-07
+1054,Curry Bloom 88526,Pune,Maharashtra,Chinese,Quick Service,2022-04-06
+1055,Spice Point 20813,Chennai,Tamil Nadu,North Indian,Casual Dining,2022-11-03
+1056,Golden Cravings 67276,Kolkata,West Bengal,Pizza,Quick Service,2022-05-18
+1057,Chai Kitchen 91471,Mumbai,Maharashtra,Fast Food,Quick Service,2023-10-23
+1058,Wok Express 64308,Hyderabad,Telangana,Fast Food,Cafe,2022-09-07
+1059,Dosa Bistro 14394,Bengaluru,Karnataka,Chinese,Casual Dining,2022-11-15
+1060,Bombay House 19057,Bengaluru,Karnataka,Desserts,Dessert Shop,2021-10-04
+1061,Wok Bistro 20359,Pune,Maharashtra,North Indian,Quick Service,2022-12-16
+1062,Masala Treats 10728,Mumbai,Maharashtra,Biryani,Quick Service,2023-10-01
+1063,Punjabi House 75397,Hyderabad,Telangana,Biryani,Casual Dining,2022-04-14
+1064,Dosa Point 96516,Chennai,Tamil Nadu,Healthy,Cafe,2023-08-20
+1065,Bombay Hub 51735,Pune,Maharashtra,Chinese,Casual Dining,2021-10-05
+1066,Masala Bloom 59925,Hyderabad,Telangana,Fast Food,Quick Service,2023-01-21
+1067,Green Express 77391,Hyderabad,Telangana,North Indian,Quick Service,2022-01-25
+1068,Curry Point 41626,New Delhi,Delhi,Desserts,Dessert Shop,2022-05-21
+1069,Wok Darbar 47298,Bengaluru,Karnataka,Chinese,Cafe,2022-11-09
+1070,Spice Darbar 58942,Mumbai,Maharashtra,Chinese,Casual Dining,2022-07-25
+1071,Dosa Bistro 30533,New Delhi,Delhi,Desserts,Dessert Shop,2023-07-21
+1072,Curry Bloom 06274,Mumbai,Maharashtra,Biryani,Quick Service,2023-10-27
+1073,Tandoori Point 56819,Ahmedabad,Gujarat,Biryani,Quick Service,2022-02-11
+1074,Masala Point 82229,New Delhi,Delhi,Chinese,Casual Dining,2021-08-22
+1075,Royal Bowl 07415,Bengaluru,Karnataka,North Indian,Casual Dining,2021-11-17
+1076,Madras Kitchen 21742,New Delhi,Delhi,Biryani,Fine Dining,2023-04-02
+1077,Dosa Express 26372,New Delhi,Delhi,North Indian,Fine Dining,2023-02-13
+1078,Bombay Point 80473,Pune,Maharashtra,North Indian,Casual Dining,2023-02-12
+1079,Madras House 50508,Hyderabad,Telangana,Pizza,Cafe,2022-04-09
+1080,Wok Hub 53483,Kolkata,West Bengal,Chinese,Quick Service,2022-06-19
+1081,Delhi Kitchen 64561,Pune,Maharashtra,Biryani,Casual Dining,2022-01-15
+1082,Delhi Corner 27729,Mumbai,Maharashtra,Biryani,Casual Dining,2021-09-03
+1083,Tandoori Junction 71382,Kolkata,West Bengal,Biryani,Casual Dining,2023-01-13
+1084,Little Cravings 03117,Bengaluru,Karnataka,South Indian,Casual Dining,2022-05-15
+1085,Spice Treats 11460,Bengaluru,Karnataka,Burger,Quick Service,2022-10-08
+1086,Bombay Tales 81600,Bengaluru,Karnataka,Burger,Quick Service,2021-08-25
+1087,Bombay Treats 65854,Chennai,Tamil Nadu,Biryani,Quick Service,2023-02-17
+1088,Delhi Bowl 17728,Mumbai,Maharashtra,Biryani,Quick Service,2023-07-17
+1089,Wok Bistro 43931,Bengaluru,Karnataka,Biryani,Casual Dining,2023-01-26
+1090,Bombay Junction 05275,Mumbai,Maharashtra,Chinese,Quick Service,2022-06-24
+1091,Urban Cravings 67217,Bengaluru,Karnataka,Biryani,Quick Service,2021-08-26
+1092,Saffron Kitchen 75611,Pune,Maharashtra,South Indian,Casual Dining,2021-12-17
+1093,Urban Cravings 27911,Mumbai,Maharashtra,Chinese,Fine Dining,2023-12-16
+1094,Little Zaika 35068,Mumbai,Maharashtra,Biryani,Quick Service,2022-09-30
+1095,Dosa Point 23757,New Delhi,Delhi,Biryani,Quick Service,2023-08-11
+1096,Punjabi Express 38994,Pune,Maharashtra,Biryani,Casual Dining,2023-02-10
+1097,Sweet Express 27303,Mumbai,Maharashtra,North Indian,Casual Dining,2021-09-04
+1098,Urban Zaika 24781,Bengaluru,Karnataka,North Indian,Casual Dining,2021-07-29
+1099,Delhi Bloom 43077,Bengaluru,Karnataka,South Indian,Quick Service,2023-08-16
+1100,Saffron Hub 85931,Lucknow,Uttar Pradesh,Biryani,Casual Dining,2023-08-28
+1101,Chai Bloom 76296,Ahmedabad,Gujarat,North Indian,Fine Dining,2022-04-15
+1102,Saffron Hub 29802,Pune,Maharashtra,Chinese,Quick Service,2022-12-28
+1103,Urban Bistro 94289,New Delhi,Delhi,Fast Food,Quick Service,2022-12-08
+1104,Green Corner 21098,Lucknow,Uttar Pradesh,North Indian,Quick Service,2021-11-06
+1105,Masala Kitchen 91082,Chennai,Tamil Nadu,Pizza,Casual Dining,2021-09-25
+1106,Sweet Cravings 30993,Chennai,Tamil Nadu,Burger,Casual Dining,2021-10-13
+1107,Cafe Zaika 54071,Mumbai,Maharashtra,Chinese,Quick Service,2022-01-27
+1108,Urban Corner 20394,New Delhi,Delhi,South Indian,Quick Service,2021-08-02
+1109,Little Bistro 76225,Bengaluru,Karnataka,North Indian,Casual Dining,2022-03-25
+1110,Spice Junction 31833,Ahmedabad,Gujarat,Healthy,Cafe,2021-10-27
+1111,Spice Bloom 87268,Mumbai,Maharashtra,Biryani,Casual Dining,2022-09-02
+1112,Madras Darbar 08385,New Delhi,Delhi,Burger,Quick Service,2023-11-17
+1113,Sweet Bowl 50249,New Delhi,Delhi,Chinese,Casual Dining,2021-12-28
+1114,Little Point 15936,Hyderabad,Telangana,North Indian,Fine Dining,2021-09-17
+1115,Saffron Kitchen 88905,Bengaluru,Karnataka,North Indian,Casual Dining,2023-03-26
+1116,Punjabi Junction 41763,Ahmedabad,Gujarat,South Indian,Quick Service,2022-12-12
+1117,Punjabi Bistro 67479,Chennai,Tamil Nadu,Chinese,Casual Dining,2022-08-05
+1118,Chai Darbar 87957,Chennai,Tamil Nadu,North Indian,Casual Dining,2022-05-25
+1119,Spice Point 53609,Mumbai,Maharashtra,Fast Food,Quick Service,2022-05-04
+1120,Little Corner 05823,Pune,Maharashtra,Pizza,Casual Dining,2023-01-12
+1121,Wok Point 22149,Hyderabad,Telangana,Chinese,Casual Dining,2021-11-24
+1122,Bombay Zaika 21345,Pune,Maharashtra,Biryani,Cafe,2021-12-30
+1123,Spice Junction 91425,Bengaluru,Karnataka,North Indian,Casual Dining,2021-09-05
+1124,Golden Kitchen 90842,Mumbai,Maharashtra,Fast Food,Quick Service,2022-08-01
+1125,Chai Bowl 47747,Bengaluru,Karnataka,Biryani,Quick Service,2023-10-24
+1126,Madras Zaika 89011,Mumbai,Maharashtra,Pizza,Casual Dining,2021-12-02
+1127,Green Kitchen 24676,New Delhi,Delhi,Biryani,Quick Service,2023-10-22
+1128,Spice Darbar 67976,Bengaluru,Karnataka,Chinese,Quick Service,2023-07-11
+1129,Cafe Point 39253,Bengaluru,Karnataka,North Indian,Quick Service,2023-04-20
+1130,Sweet Treats 24123,Hyderabad,Telangana,North Indian,Casual Dining,2023-07-19
+1131,Bombay Cravings 25075,Bengaluru,Karnataka,Fast Food,Quick Service,2022-03-21
+1132,Biryani Bistro 42038,Jaipur,Rajasthan,Chinese,Quick Service,2022-12-01
+1133,Green Cravings 34031,Hyderabad,Telangana,Chinese,Quick Service,2023-06-18
+1134,Madras Bloom 21200,New Delhi,Delhi,Healthy,Fine Dining,2023-12-28
+1135,Spice Point 33480,Hyderabad,Telangana,Healthy,Quick Service,2023-06-21
+1136,Golden Cravings 12945,Bengaluru,Karnataka,Pizza,Quick Service,2022-04-18
+1137,Saffron Kitchen 96969,Lucknow,Uttar Pradesh,North Indian,Quick Service,2022-01-17
+1138,Delhi Kitchen 38061,Mumbai,Maharashtra,Chinese,Casual Dining,2023-04-10
+1139,Little Bloom 10827,Kolkata,West Bengal,Pizza,Fine Dining,2023-10-28
+1140,Wok Point 57624,Bengaluru,Karnataka,Biryani,Casual Dining,2022-08-18
+1141,Madras Cravings 88322,Mumbai,Maharashtra,North Indian,Casual Dining,2022-01-27
+1142,Spice Cravings 36056,Mumbai,Maharashtra,Fast Food,Quick Service,2023-10-30
+1143,Golden Zaika 84538,Jaipur,Rajasthan,Chinese,Casual Dining,2022-01-16
+1144,Royal Bowl 61120,Hyderabad,Telangana,Chinese,Casual Dining,2023-08-01
+1145,Dosa Hub 73950,Mumbai,Maharashtra,Desserts,Dessert Shop,2023-05-14
+1146,Green Bistro 29695,New Delhi,Delhi,Chinese,Casual Dining,2022-06-20
+1147,Delhi Darbar 03789,New Delhi,Delhi,Biryani,Quick Service,2023-11-16
+1148,Curry Treats 34650,Hyderabad,Telangana,Biryani,Casual Dining,2023-04-01
+1149,Masala Bloom 92452,Mumbai,Maharashtra,Biryani,Casual Dining,2023-08-30
+1150,Punjabi Point 79087,Bengaluru,Karnataka,North Indian,Casual Dining,2023-06-22
+1151,Wok Tales 78436,Kolkata,West Bengal,Fast Food,Quick Service,2022-02-04
+1152,Delhi Cravings 87842,Ahmedabad,Gujarat,Pizza,Quick Service,2023-06-10
+1153,Golden Junction 37388,Bengaluru,Karnataka,North Indian,Casual Dining,2023-11-23
+1154,Wok Kitchen 32270,Hyderabad,Telangana,Biryani,Quick Service,2023-06-22
+1155,Curry Treats 92525,Bengaluru,Karnataka,Pizza,Casual Dining,2023-10-15
+1156,Sweet Hub 57193,Pune,Maharashtra,North Indian,Casual Dining,2022-06-20
+1157,Madras Bistro 29865,New Delhi,Delhi,Chinese,Fine Dining,2021-08-09
+1158,Dosa House 27888,Pune,Maharashtra,Biryani,Casual Dining,2023-08-04
+1159,Golden Bloom 87739,Chennai,Tamil Nadu,South Indian,Casual Dining,2022-03-17
+1160,Biryani Darbar 05428,Chennai,Tamil Nadu,North Indian,Fine Dining,2023-02-09
+1161,Masala Bowl 06263,Bengaluru,Karnataka,South Indian,Quick Service,2023-10-29
+1162,Little Zaika 73811,Jaipur,Rajasthan,Biryani,Quick Service,2022-04-22
+1163,Bombay Junction 00234,New Delhi,Delhi,Chinese,Quick Service,2023-06-27
+1164,Madras Bistro 17183,Bengaluru,Karnataka,North Indian,Casual Dining,2022-09-26
+1165,Delhi Darbar 99063,Hyderabad,Telangana,Biryani,Quick Service,2022-10-02
+1166,Wok Cravings 42628,Mumbai,Maharashtra,Chinese,Casual Dining,2022-07-13
+1167,Cafe Bloom 72792,Kolkata,West Bengal,North Indian,Fine Dining,2023-09-02
+1168,Little Zaika 48755,Kolkata,West Bengal,North Indian,Fine Dining,2023-05-21
+1169,Punjabi Tales 09147,New Delhi,Delhi,North Indian,Casual Dining,2022-03-09
+1170,Masala Express 18528,Lucknow,Uttar Pradesh,Biryani,Quick Service,2021-09-14
+1171,Spice House 76133,New Delhi,Delhi,North Indian,Fine Dining,2023-12-22
+1172,Madras Cravings 09545,Hyderabad,Telangana,Healthy,Cafe,2022-12-25
+1173,Punjabi Bloom 59501,New Delhi,Delhi,Biryani,Quick Service,2021-10-30
+1174,Royal Tales 34866,Jaipur,Rajasthan,Fast Food,Quick Service,2023-04-18
+1175,Bombay Zaika 37092,Bengaluru,Karnataka,Desserts,Dessert Shop,2022-11-25
+1176,Sweet Tales 95232,Bengaluru,Karnataka,North Indian,Casual Dining,2021-10-10
+1177,Punjabi Hub 60632,Mumbai,Maharashtra,South Indian,Quick Service,2021-08-12
+1178,Masala Tales 61551,Ranchi,Jharkhand,Pizza,Quick Service,2022-05-22
+1179,Masala Treats 35100,Ahmedabad,Gujarat,South Indian,Casual Dining,2022-04-17
+1180,Sweet Kitchen 38202,Chennai,Tamil Nadu,Biryani,Quick Service,2022-06-28
+1181,Delhi Bloom 68607,Ahmedabad,Gujarat,Biryani,Fine Dining,2023-04-21
+1182,Little House 03987,Ahmedabad,Gujarat,North Indian,Quick Service,2021-10-25
+1183,Saffron Bowl 23806,Hyderabad,Telangana,Chinese,Fine Dining,2023-12-02
+1184,Sweet Bloom 60066,New Delhi,Delhi,Desserts,Cafe,2023-11-10
+1185,Tandoori Point 62390,Chennai,Tamil Nadu,Healthy,Fine Dining,2022-07-09
+1186,Dosa Treats 09316,Pune,Maharashtra,North Indian,Casual Dining,2021-12-09
+1187,Dosa House 78803,Mumbai,Maharashtra,South Indian,Casual Dining,2021-12-30
+1188,Dosa Tales 54299,Bengaluru,Karnataka,Biryani,Casual Dining,2022-05-01
+1189,Chai Hub 23847,Chennai,Tamil Nadu,Burger,Quick Service,2023-01-28
+1190,Tandoori Zaika 75219,New Delhi,Delhi,North Indian,Casual Dining,2023-02-12
+1191,Dosa Bowl 99087,Jaipur,Rajasthan,Burger,Quick Service,2022-12-14
+1192,Tandoori Darbar 42415,New Delhi,Delhi,Pizza,Quick Service,2023-05-16
+1193,Saffron Bloom 28415,Bengaluru,Karnataka,North Indian,Casual Dining,2022-12-20
+1194,Sweet Junction 30010,Kolkata,West Bengal,North Indian,Fine Dining,2023-09-29
+1195,Spice Corner 59300,Bengaluru,Karnataka,Pizza,Casual Dining,2023-03-20
+1196,Dosa Express 04833,Bengaluru,Karnataka,North Indian,Quick Service,2021-09-07
+1197,Biryani Tales 48394,Hyderabad,Telangana,Chinese,Fine Dining,2022-04-05
+1198,Punjabi Darbar 02575,Ahmedabad,Gujarat,Burger,Quick Service,2023-08-27
+1199,Green Tales 03954,Bengaluru,Karnataka,Chinese,Quick Service,2023-04-19
+1200,Chai Darbar 43059,New Delhi,Delhi,Biryani,Quick Service,2023-05-13
+1201,Golden Darbar 74576,Chennai,Tamil Nadu,Biryani,Casual Dining,2023-04-23
+1202,Little Darbar 88345,Lucknow,Uttar Pradesh,North Indian,Casual Dining,2022-04-20
+1203,Dosa Kitchen 08854,Mumbai,Maharashtra,Healthy,Cafe,2021-10-18
+1204,Wok House 24481,Bengaluru,Karnataka,Biryani,Quick Service,2022-04-02
+1205,Little Bloom 42223,Bengaluru,Karnataka,North Indian,Fine Dining,2022-10-19
+1206,Bombay Zaika 57447,New Delhi,Delhi,North Indian,Fine Dining,2023-08-10
+1207,Wok Treats 98705,Bengaluru,Karnataka,Healthy,Cafe,2023-08-26
+1208,Curry Corner 68461,Pune,Maharashtra,North Indian,Casual Dining,2021-12-30
+1209,Cafe Treats 53881,Bengaluru,Karnataka,Pizza,Quick Service,2022-05-02
+1210,Little Tales 06176,Mumbai,Maharashtra,South Indian,Casual Dining,2022-09-29
+1211,Curry Corner 08173,Pune,Maharashtra,Pizza,Quick Service,2022-07-31
+1212,Biryani Kitchen 15394,Hyderabad,Telangana,Desserts,Dessert Shop,2021-11-29
+1213,Masala Darbar 66112,Bengaluru,Karnataka,Pizza,Quick Service,2021-12-30
+1214,Sweet Tales 33194,Kolkata,West Bengal,Healthy,Cafe,2023-10-15
+1215,Biryani Bowl 24169,Chennai,Tamil Nadu,North Indian,Casual Dining,2023-01-11
+1216,Bombay Darbar 67041,Chennai,Tamil Nadu,Fast Food,Quick Service,2023-11-24
+1217,Delhi Zaika 81554,Bengaluru,Karnataka,Chinese,Casual Dining,2023-01-20
+1218,Bombay Kitchen 43959,Bengaluru,Karnataka,Chinese,Quick Service,2022-06-07
+1219,Saffron Kitchen 88196,Jaipur,Rajasthan,Burger,Quick Service,2023-06-28
+1220,Golden Bloom 73445,Mumbai,Maharashtra,Desserts,Dessert Shop,2023-08-19
+1221,Saffron House 71654,New Delhi,Delhi,South Indian,Quick Service,2022-10-17
+1222,Biryani Tales 86772,Mumbai,Maharashtra,Chinese,Quick Service,2022-09-16
+1223,Dosa Junction 18462,Pune,Maharashtra,Biryani,Casual Dining,2022-03-30
+1224,Sweet Bowl 75860,Lucknow,Uttar Pradesh,Biryani,Quick Service,2023-12-20
+1225,Cafe Zaika 95776,New Delhi,Delhi,Biryani,Cafe,2023-05-23
+1226,Saffron Corner 99224,Jaipur,Rajasthan,Biryani,Casual Dining,2022-01-30
+1227,Dosa Tales 57845,Bengaluru,Karnataka,North Indian,Casual Dining,2022-04-28
+1228,Wok Tales 75459,Hyderabad,Telangana,North Indian,Casual Dining,2021-10-14
+1229,Tandoori Bowl 88870,Pune,Maharashtra,Fast Food,Quick Service,2021-12-29
+1230,Saffron Kitchen 85231,Bengaluru,Karnataka,Biryani,Casual Dining,2021-12-08
+1231,Delhi House 89788,Bengaluru,Karnataka,Burger,Casual Dining,2022-09-29
+1232,Chai Treats 83252,Mumbai,Maharashtra,Chinese,Casual Dining,2021-08-22
+1233,Chai Point 38192,Lucknow,Uttar Pradesh,North Indian,Quick Service,2022-12-23
+1234,Tandoori Corner 73052,Hyderabad,Telangana,North Indian,Casual Dining,2021-10-11
+1235,Masala Zaika 41102,Jaipur,Rajasthan,North Indian,Casual Dining,2023-01-14
+1236,Spice Zaika 80199,Kolkata,West Bengal,Desserts,Dessert Shop,2022-11-28
+1237,Chai Point 81042,Mumbai,Maharashtra,North Indian,Casual Dining,2022-04-24
+1238,Cafe Bowl 93473,Kolkata,West Bengal,Chinese,Casual Dining,2023-01-08
+1239,Green House 58872,Bengaluru,Karnataka,Burger,Quick Service,2023-08-22
+1240,Green House 47572,Bengaluru,Karnataka,Desserts,Cafe,2021-10-17
+1241,Curry Kitchen 16637,Kolkata,West Bengal,North Indian,Cafe,2022-11-20
+1242,Saffron House 63864,Kolkata,West Bengal,North Indian,Quick Service,2021-09-19
+1243,Urban Treats 56683,New Delhi,Delhi,North Indian,Casual Dining,2023-01-07
+1244,Golden Treats 51541,Hyderabad,Telangana,North Indian,Quick Service,2021-08-09
+1245,Wok Cravings 67664,Hyderabad,Telangana,North Indian,Casual Dining,2022-07-08
+1246,Bombay Express 85117,Ahmedabad,Gujarat,Chinese,Quick Service,2022-02-09
+1247,Golden Corner 14952,Hyderabad,Telangana,Burger,Quick Service,2022-02-21
+1248,Curry Bloom 43192,Mumbai,Maharashtra,Chinese,Quick Service,2023-07-04
+1249,Saffron Zaika 72257,Mumbai,Maharashtra,South Indian,Quick Service,2021-12-29
+1250,Masala Kitchen 81989,Mumbai,Maharashtra,North Indian,Quick Service,2021-09-03
+1251,Tandoori Point 77860,Pune,Maharashtra,Fast Food,Quick Service,2022-05-16
+1252,Wok Bistro 79954,Ahmedabad,Gujarat,Chinese,Casual Dining,2021-09-01
+1253,Biryani Junction 85517,Mumbai,Maharashtra,Pizza,Quick Service,2021-12-01
+1254,Madras Junction 96191,New Delhi,Delhi,Healthy,Cafe,2022-05-12
+1255,Green Bloom 60845,New Delhi,Delhi,Biryani,Casual Dining,2022-10-29
+1256,Sweet Corner 24966,Chennai,Tamil Nadu,North Indian,Quick Service,2021-11-21
+1257,Golden Tales 56397,Kolkata,West Bengal,North Indian,Casual Dining,2023-07-19
+1258,Golden Zaika 70990,Bengaluru,Karnataka,Biryani,Cafe,2022-08-14
+1259,Green Kitchen 10160,Bengaluru,Karnataka,Healthy,Casual Dining,2021-12-28
+1260,Masala Point 75715,Hyderabad,Telangana,Biryani,Casual Dining,2021-09-04
+1261,Masala Express 54466,Bengaluru,Karnataka,Fast Food,Quick Service,2023-05-06
+1262,Golden Express 93633,Kolkata,West Bengal,Chinese,Casual Dining,2023-10-09
+1263,Cafe House 21261,New Delhi,Delhi,North Indian,Casual Dining,2023-03-07
+1264,Sweet Bistro 90698,Bengaluru,Karnataka,Biryani,Casual Dining,2021-11-15
+1265,Golden Tales 44855,Jaipur,Rajasthan,South Indian,Casual Dining,2022-09-17
+1266,Madras Tales 57394,Bengaluru,Karnataka,South Indian,Quick Service,2023-11-13
+1267,Wok Tales 66033,New Delhi,Delhi,Biryani,Quick Service,2023-09-16
+1268,Cafe Junction 57956,Bengaluru,Karnataka,North Indian,Fine Dining,2023-03-02
+1269,Delhi Bistro 90391,Bengaluru,Karnataka,South Indian,Cafe,2023-02-27
+1270,Madras Bowl 16812,Bengaluru,Karnataka,North Indian,Casual Dining,2023-09-02
+1271,Royal Treats 73014,Bengaluru,Karnataka,Burger,Quick Service,2022-10-14
+1272,Bombay House 97497,Bengaluru,Karnataka,North Indian,Casual Dining,2022-10-27
+1273,Spice Junction 22089,Bengaluru,Karnataka,North Indian,Casual Dining,2023-07-06
+1274,Royal Kitchen 25575,Hyderabad,Telangana,Chinese,Casual Dining,2023-06-06
+1275,Bombay Bloom 47553,Pune,Maharashtra,Chinese,Cafe,2022-05-14
+1276,Tandoori Junction 72500,Mumbai,Maharashtra,Chinese,Casual Dining,2021-08-28
+1277,Cafe Zaika 95901,New Delhi,Delhi,Biryani,Casual Dining,2021-07-19
+1278,Madras Bowl 79599,Mumbai,Maharashtra,Desserts,Dessert Shop,2022-08-16
+1279,Biryani Point 79421,Ahmedabad,Gujarat,Chinese,Quick Service,2023-11-28
+1280,Punjabi Bistro 44176,Ahmedabad,Gujarat,Biryani,Casual Dining,2021-10-16
+1281,Punjabi Express 64573,Bengaluru,Karnataka,Biryani,Quick Service,2021-08-29
+1282,Madras Junction 21198,Bengaluru,Karnataka,North Indian,Quick Service,2023-04-26
+1283,Madras Darbar 46368,New Delhi,Delhi,Chinese,Casual Dining,2023-01-06
+1284,Masala Bowl 18976,New Delhi,Delhi,North Indian,Casual Dining,2023-12-09
+1285,Cafe Point 02809,Hyderabad,Telangana,South Indian,Casual Dining,2022-01-10
+1286,Biryani House 85663,Mumbai,Maharashtra,North Indian,Cafe,2022-02-02
+1287,Green Darbar 80491,Bengaluru,Karnataka,Desserts,Cafe,2023-12-14
+1288,Urban Cravings 51124,Mumbai,Maharashtra,Biryani,Quick Service,2022-04-09
+1289,Little House 01548,Hyderabad,Telangana,Burger,Quick Service,2022-12-27
+1290,Little Zaika 09104,Bengaluru,Karnataka,Biryani,Casual Dining,2022-08-29
+1291,Delhi Bloom 11265,Kolkata,West Bengal,North Indian,Quick Service,2023-06-19
+1292,Madras Point 71729,Bengaluru,Karnataka,Pizza,Cafe,2021-12-29
+1293,Sweet Bistro 20428,Jaipur,Rajasthan,South Indian,Quick Service,2023-01-03
+1294,Masala Cravings 25091,Bengaluru,Karnataka,Fast Food,Quick Service,2021-12-06
+1295,Spice House 86122,Kolkata,West Bengal,Biryani,Quick Service,2023-08-21
+1296,Spice Corner 87650,Ahmedabad,Gujarat,South Indian,Casual Dining,2022-07-21
+1297,Delhi Bloom 76328,Lucknow,Uttar Pradesh,Pizza,Quick Service,2023-03-28
+1298,Spice Bloom 31025,Kolkata,West Bengal,South Indian,Fine Dining,2021-08-15
+1299,Sweet Point 58035,Chennai,Tamil Nadu,Biryani,Casual Dining,2022-08-18
+1300,Royal Darbar 20106,Pune,Maharashtra,South Indian,Quick Service,2022-03-25
+1301,Punjabi Kitchen 85803,Chennai,Tamil Nadu,South Indian,Quick Service,2023-10-16
+1302,Golden Express 08577,Bengaluru,Karnataka,Healthy,Cafe,2022-05-02
+1303,Little Junction 74465,Hyderabad,Telangana,Biryani,Casual Dining,2023-10-03
+1304,Little Express 51201,Hyderabad,Telangana,Biryani,Quick Service,2023-02-10
+1305,Spice Cravings 75770,Ahmedabad,Gujarat,Fast Food,Quick Service,2023-06-15
+1306,Curry Corner 45128,Mumbai,Maharashtra,Chinese,Casual Dining,2023-12-30
+1307,Little Express 15896,Mumbai,Maharashtra,South Indian,Quick Service,2022-07-23
+1308,Madras Tales 75155,Pune,Maharashtra,Biryani,Casual Dining,2023-05-30
+1309,Cafe Darbar 63144,New Delhi,Delhi,North Indian,Casual Dining,2022-09-27
+1310,Tandoori House 46513,Bengaluru,Karnataka,Fast Food,Quick Service,2022-02-13
+1311,Little Zaika 37334,Mumbai,Maharashtra,North Indian,Quick Service,2023-07-25
+1312,Little Bloom 34446,Mumbai,Maharashtra,North Indian,Casual Dining,2022-04-03
+1313,Madras Treats 48164,New Delhi,Delhi,South Indian,Casual Dining,2023-04-09
+1314,Delhi Cravings 26239,Mumbai,Maharashtra,Fast Food,Cafe,2023-03-10
+1315,Wok Cravings 28307,Mumbai,Maharashtra,Burger,Quick Service,2022-07-31
+1316,Sweet House 27886,New Delhi,Delhi,North Indian,Casual Dining,2022-06-17
+1317,Biryani Express 01366,Mumbai,Maharashtra,North Indian,Casual Dining,2022-05-22
+1318,Madras House 92791,Pune,Maharashtra,Healthy,Quick Service,2023-07-10
+1319,Biryani Darbar 23731,New Delhi,Delhi,North Indian,Fine Dining,2022-07-29
+1320,Delhi Bowl 16591,Jaipur,Rajasthan,North Indian,Casual Dining,2023-05-09
+1321,Masala Cravings 15201,Jaipur,Rajasthan,North Indian,Casual Dining,2023-04-27
+1322,Dosa Express 98817,Mumbai,Maharashtra,Chinese,Quick Service,2021-09-01
+1323,Delhi Darbar 47726,New Delhi,Delhi,Pizza,Cafe,2023-10-03
+1324,Bombay Point 32758,Hyderabad,Telangana,Fast Food,Quick Service,2022-12-26
+1325,Punjabi Darbar 40448,Kolkata,West Bengal,South Indian,Casual Dining,2022-12-02
+1326,Spice Zaika 08930,Pune,Maharashtra,North Indian,Cafe,2023-05-26
+1327,Spice Hub 31435,Kolkata,West Bengal,Biryani,Quick Service,2022-01-25
+1328,Delhi Hub 24943,Hyderabad,Telangana,Biryani,Casual Dining,2022-10-20
+1329,Chai Bowl 80340,Pune,Maharashtra,North Indian,Casual Dining,2022-03-25
+1330,Delhi Zaika 05935,New Delhi,Delhi,North Indian,Quick Service,2023-01-18
+1331,Golden Darbar 42601,Chennai,Tamil Nadu,Biryani,Fine Dining,2021-10-16
+1332,Biryani House 79023,New Delhi,Delhi,North Indian,Casual Dining,2022-03-16
+1333,Biryani Junction 83375,Pune,Maharashtra,Chinese,Cafe,2023-03-08
+1334,Madras Bloom 51303,Ahmedabad,Gujarat,South Indian,Casual Dining,2021-08-19
+1335,Dosa Bloom 22330,Bengaluru,Karnataka,North Indian,Casual Dining,2021-11-14
+1336,Tandoori Cravings 33764,Hyderabad,Telangana,Chinese,Casual Dining,2022-07-18
+1337,Spice Junction 22306,Bengaluru,Karnataka,Fast Food,Cafe,2023-12-18
+1338,Punjabi Point 66238,Chennai,Tamil Nadu,Fast Food,Quick Service,2022-07-18
+1339,Masala Tales 29334,Bengaluru,Karnataka,Fast Food,Quick Service,2022-04-20
+1340,Tandoori Corner 63100,Jaipur,Rajasthan,Biryani,Cafe,2023-02-07
+1341,Bombay Kitchen 65603,Bengaluru,Karnataka,Pizza,Casual Dining,2023-08-25
+1342,Urban Kitchen 93992,Lucknow,Uttar Pradesh,North Indian,Quick Service,2022-08-11
+1343,Punjabi Bistro 37097,Kolkata,West Bengal,Biryani,Casual Dining,2022-01-10
+1344,Golden Bloom 96128,Hyderabad,Telangana,North Indian,Quick Service,2023-03-20
+1345,Tandoori Corner 40131,Kolkata,West Bengal,Biryani,Casual Dining,2022-11-17
+1346,Dosa House 68099,Kolkata,West Bengal,Biryani,Quick Service,2024-01-01
+1347,Masala Bistro 66195,Jaipur,Rajasthan,North Indian,Casual Dining,2022-04-08
+1348,Sweet Bowl 81798,New Delhi,Delhi,Fast Food,Cafe,2021-11-13
+1349,Tandoori Hub 46963,Hyderabad,Telangana,Biryani,Casual Dining,2022-02-02
+1350,Curry House 79262,Bengaluru,Karnataka,North Indian,Fine Dining,2022-12-11
+1351,Sweet Cravings 35597,Hyderabad,Telangana,North Indian,Casual Dining,2023-11-22
+1352,Curry Hub 49180,Bengaluru,Karnataka,Biryani,Quick Service,2022-10-16
+1353,Sweet Kitchen 50016,Hyderabad,Telangana,Biryani,Quick Service,2021-09-07
+1354,Curry Hub 70474,Hyderabad,Telangana,Biryani,Casual Dining,2023-10-18
+1355,Green Bowl 61872,Mumbai,Maharashtra,North Indian,Quick Service,2023-06-23
+1356,Urban Darbar 07917,Hyderabad,Telangana,Fast Food,Quick Service,2021-12-09
+1357,Madras Darbar 80924,Chennai,Tamil Nadu,Burger,Quick Service,2022-08-08
+1358,Dosa Hub 75825,Kolkata,West Bengal,Chinese,Quick Service,2023-08-01
+1359,Cafe Kitchen 10544,Mumbai,Maharashtra,South Indian,Quick Service,2023-12-11
+1360,Cafe Hub 96186,Hyderabad,Telangana,Pizza,Quick Service,2022-12-28
+1361,Biryani Bistro 66105,Jaipur,Rajasthan,Desserts,Dessert Shop,2022-07-15
+1362,Delhi Bowl 08588,Bengaluru,Karnataka,Chinese,Quick Service,2021-12-06
+1363,Spice House 49189,Bengaluru,Karnataka,Pizza,Casual Dining,2021-10-28
+1364,Madras Point 83627,Bengaluru,Karnataka,Burger,Quick Service,2022-11-15
+1365,Royal Tales 28054,Pune,Maharashtra,Fast Food,Casual Dining,2022-12-17
+1366,Wok Junction 93303,Mumbai,Maharashtra,Biryani,Quick Service,2021-09-15
+1367,Delhi Darbar 41898,Chennai,Tamil Nadu,North Indian,Casual Dining,2022-02-01
+1368,Sweet Kitchen 22696,Pune,Maharashtra,North Indian,Casual Dining,2023-06-27
+1369,Biryani Zaika 35709,New Delhi,Delhi,Biryani,Quick Service,2022-04-28
+1370,Bombay Zaika 52528,Ahmedabad,Gujarat,Chinese,Quick Service,2022-03-29
+1371,Dosa House 68843,Chennai,Tamil Nadu,Biryani,Casual Dining,2023-06-05
+1372,Royal Treats 92792,New Delhi,Delhi,Chinese,Quick Service,2021-08-04
+1373,Chai Tales 19569,Mumbai,Maharashtra,Chinese,Quick Service,2023-04-09
+1374,Masala Corner 96025,New Delhi,Delhi,Pizza,Fine Dining,2022-08-25
+1375,Punjabi Point 52816,Bengaluru,Karnataka,North Indian,Quick Service,2022-10-14
+1376,Chai Tales 12875,Bengaluru,Karnataka,North Indian,Casual Dining,2022-04-19
+1377,Green Point 92653,Jaipur,Rajasthan,Fast Food,Quick Service,2021-10-12
+1378,Bombay Cravings 34965,Mumbai,Maharashtra,Pizza,Quick Service,2023-01-13
+1379,Chai Bloom 62095,Mumbai,Maharashtra,Desserts,Cafe,2023-01-20
+1380,Wok Cravings 69843,Chennai,Tamil Nadu,Pizza,Casual Dining,2022-02-24
+1381,Golden Hub 01439,Hyderabad,Telangana,Pizza,Casual Dining,2021-08-27
+1382,Golden Darbar 22233,Jaipur,Rajasthan,Biryani,Casual Dining,2021-10-06
+1383,Bombay Point 68676,Kolkata,West Bengal,Biryani,Quick Service,2022-02-23
+1384,Masala Bistro 32544,Mumbai,Maharashtra,North Indian,Casual Dining,2022-04-09
+1385,Golden Hub 01032,Mumbai,Maharashtra,Chinese,Casual Dining,2022-02-09
+1386,Dosa Darbar 02426,Ranchi,Jharkhand,Burger,Quick Service,2021-09-11
+1387,Royal Bloom 82661,Chennai,Tamil Nadu,Biryani,Quick Service,2023-12-23
+1388,Punjabi Treats 15436,Lucknow,Uttar Pradesh,Chinese,Casual Dining,2022-07-21
+1389,Royal Junction 10132,Bengaluru,Karnataka,North Indian,Quick Service,2023-12-02
+1390,Urban Treats 56276,Ahmedabad,Gujarat,North Indian,Casual Dining,2022-07-31
+1391,Madras Bowl 11981,Pune,Maharashtra,North Indian,Quick Service,2023-01-11
+1392,Madras Bloom 65343,Bengaluru,Karnataka,North Indian,Fine Dining,2023-04-02
+1393,Delhi Hub 54454,Hyderabad,Telangana,Healthy,Cafe,2021-10-22
+1394,Spice Bowl 64925,Pune,Maharashtra,Biryani,Quick Service,2022-04-03
+1395,Punjabi Bowl 49210,Bengaluru,Karnataka,Pizza,Quick Service,2022-08-09
+1396,Tandoori Bistro 77857,Mumbai,Maharashtra,South Indian,Cafe,2021-10-30
+1397,Madras Express 64510,Kolkata,West Bengal,North Indian,Casual Dining,2023-10-05
+1398,Sweet Tales 41586,New Delhi,Delhi,North Indian,Casual Dining,2022-05-30
+1399,Bombay House 01636,Mumbai,Maharashtra,Fast Food,Quick Service,2023-08-14
+1400,Spice Corner 27421,Mumbai,Maharashtra,North Indian,Quick Service,2023-06-06
+1401,Curry Junction 13229,New Delhi,Delhi,Burger,Quick Service,2023-07-19
+1402,Green Treats 01656,Jaipur,Rajasthan,North Indian,Casual Dining,2022-08-30
+1403,Biryani Bistro 27389,Kolkata,West Bengal,South Indian,Casual Dining,2022-06-14
+1404,Cafe Junction 20742,Bengaluru,Karnataka,Fast Food,Quick Service,2022-02-20
+1405,Cafe Hub 07766,Ranchi,Jharkhand,North Indian,Fine Dining,2022-12-01
+1406,Masala House 31307,Ahmedabad,Gujarat,North Indian,Casual Dining,2021-09-08
+1407,Bombay Point 50705,New Delhi,Delhi,Healthy,Cafe,2023-01-30
+1408,Madras Bowl 17902,Kolkata,West Bengal,North Indian,Cafe,2023-08-14
+1409,Masala Cravings 27383,Bengaluru,Karnataka,Biryani,Casual Dining,2023-11-30
+1410,Tandoori Bistro 02112,Ranchi,Jharkhand,Biryani,Casual Dining,2023-09-09
+1411,Urban Point 05135,Pune,Maharashtra,North Indian,Fine Dining,2022-11-27
+1412,Punjabi House 15828,Pune,Maharashtra,Fast Food,Quick Service,2022-12-26
+1413,Royal Hub 45346,Bengaluru,Karnataka,Fast Food,Quick Service,2021-11-24
+1414,Masala Bloom 66642,Ahmedabad,Gujarat,Biryani,Fine Dining,2023-09-10
+1415,Chai House 78854,Bengaluru,Karnataka,Pizza,Fine Dining,2023-05-10
+1416,Wok House 62994,New Delhi,Delhi,North Indian,Casual Dining,2021-08-02
+1417,Wok Tales 61722,Bengaluru,Karnataka,North Indian,Casual Dining,2023-12-07
+1418,Curry Zaika 93573,Chennai,Tamil Nadu,Chinese,Cafe,2022-12-16
+1419,Wok Express 25638,Bengaluru,Karnataka,Desserts,Dessert Shop,2023-07-07
+1420,Biryani Bloom 79836,Jaipur,Rajasthan,North Indian,Quick Service,2022-09-08
+1421,Saffron Bowl 93692,Pune,Maharashtra,North Indian,Casual Dining,2021-08-08
+1422,Biryani Bistro 56818,Bengaluru,Karnataka,Chinese,Quick Service,2023-06-11
+1423,Little Junction 84070,Bengaluru,Karnataka,Fast Food,Casual Dining,2023-02-02
+1424,Bombay Treats 13841,Bengaluru,Karnataka,North Indian,Quick Service,2022-11-23
+1425,Dosa Cravings 87889,Hyderabad,Telangana,Biryani,Quick Service,2022-01-13
+1426,Biryani Junction 56450,Kolkata,West Bengal,Fast Food,Quick Service,2021-07-29
+1427,Saffron Point 22231,New Delhi,Delhi,Biryani,Casual Dining,2023-10-07
+1428,Madras House 06253,Kolkata,West Bengal,North Indian,Casual Dining,2022-10-19
+1429,Curry Tales 72020,Bengaluru,Karnataka,North Indian,Quick Service,2022-02-23
+1430,Urban Bowl 43144,Kolkata,West Bengal,Biryani,Quick Service,2023-12-25
+1431,Cafe House 31069,Jaipur,Rajasthan,Biryani,Casual Dining,2022-01-06
+1432,Urban Express 39086,Chennai,Tamil Nadu,Pizza,Quick Service,2023-05-28
+1433,Biryani House 99101,Pune,Maharashtra,South Indian,Casual Dining,2022-09-22
+1434,Dosa House 42838,Kolkata,West Bengal,South Indian,Quick Service,2021-08-04
+1435,Masala Junction 07969,Bengaluru,Karnataka,Desserts,Dessert Shop,2022-06-09
+1436,Delhi Kitchen 28054,New Delhi,Delhi,Biryani,Quick Service,2021-07-25
+1437,Madras Corner 14621,Bengaluru,Karnataka,Biryani,Quick Service,2022-07-07
+1438,Royal Hub 68613,Mumbai,Maharashtra,Burger,Quick Service,2023-06-26
+1439,Urban Tales 80059,Chennai,Tamil Nadu,North Indian,Casual Dining,2022-04-18
+1440,Delhi Bowl 84109,Pune,Maharashtra,South Indian,Fine Dining,2022-06-27
+1441,Dosa Bowl 63324,Ahmedabad,Gujarat,Fast Food,Quick Service,2023-03-28
+1442,Tandoori Kitchen 76874,Bengaluru,Karnataka,North Indian,Casual Dining,2023-10-24
+1443,Spice Bloom 41786,Chennai,Tamil Nadu,Biryani,Casual Dining,2022-05-28
+1444,Punjabi Kitchen 62811,Bengaluru,Karnataka,North Indian,Casual Dining,2022-07-31
+1445,Green House 10786,New Delhi,Delhi,North Indian,Casual Dining,2022-02-04
+1446,Wok Bistro 53880,Chennai,Tamil Nadu,Biryani,Cafe,2023-09-10
+1447,Golden Treats 55790,Ranchi,Jharkhand,North Indian,Casual Dining,2022-09-04
+1448,Urban Bowl 03205,Hyderabad,Telangana,Fast Food,Casual Dining,2021-12-26
+1449,Little House 54875,Bengaluru,Karnataka,Burger,Quick Service,2021-10-21
+1450,Chai Express 72320,Hyderabad,Telangana,Fast Food,Quick Service,2021-09-08
+1451,Sweet Point 36821,Bengaluru,Karnataka,North Indian,Casual Dining,2023-06-25
+1452,Wok Point 54543,Ahmedabad,Gujarat,North Indian,Casual Dining,2023-07-30
+1453,Curry Cravings 28678,Chennai,Tamil Nadu,North Indian,Quick Service,2022-08-01
+1454,Golden Cravings 27146,Bengaluru,Karnataka,North Indian,Casual Dining,2022-11-11
+1455,Golden Express 13036,Bengaluru,Karnataka,Healthy,Cafe,2023-06-05
+1456,Little Treats 32851,Bengaluru,Karnataka,Biryani,Quick Service,2023-10-02
+1457,Punjabi Treats 80338,Ranchi,Jharkhand,North Indian,Casual Dining,2023-08-25
+1458,Tandoori Cravings 93566,Mumbai,Maharashtra,Pizza,Quick Service,2023-03-02
+1459,Delhi Zaika 63598,Kolkata,West Bengal,Biryani,Quick Service,2022-03-07
+1460,Curry Tales 62473,Pune,Maharashtra,North Indian,Casual Dining,2023-11-04
+1461,Saffron Hub 61420,Hyderabad,Telangana,North Indian,Casual Dining,2023-09-29
+1462,Chai Treats 47643,Bengaluru,Karnataka,South Indian,Cafe,2023-05-08
+1463,Punjabi Express 42360,Jaipur,Rajasthan,Fast Food,Quick Service,2021-11-06
+1464,Urban Cravings 62129,New Delhi,Delhi,North Indian,Fine Dining,2021-07-24
+1465,Punjabi Zaika 78460,Hyderabad,Telangana,Burger,Quick Service,2022-12-01
+1466,Tandoori Express 41432,Pune,Maharashtra,Pizza,Casual Dining,2023-11-22
+1467,Biryani Point 56632,Pune,Maharashtra,Pizza,Quick Service,2023-12-22
+1468,Bombay Corner 47070,Jaipur,Rajasthan,North Indian,Casual Dining,2021-11-19
+1469,Cafe Treats 28622,Bengaluru,Karnataka,North Indian,Quick Service,2022-11-27
+1470,Golden House 29101,Mumbai,Maharashtra,Pizza,Fine Dining,2023-10-24
+1471,Golden Tales 07969,Mumbai,Maharashtra,Biryani,Quick Service,2021-12-12
+1472,Punjabi House 44040,Mumbai,Maharashtra,Chinese,Casual Dining,2022-09-12
+1473,Delhi Kitchen 71273,Bengaluru,Karnataka,Fast Food,Casual Dining,2023-02-21
+1474,Madras House 68589,Bengaluru,Karnataka,North Indian,Casual Dining,2022-11-21
+1475,Spice Junction 98567,New Delhi,Delhi,Fast Food,Cafe,2023-06-13
+1476,Golden Tales 04090,New Delhi,Delhi,Burger,Quick Service,2021-09-15
+1477,Spice Cravings 76088,Mumbai,Maharashtra,South Indian,Casual Dining,2022-01-23
+1478,Punjabi Cravings 79522,Hyderabad,Telangana,Biryani,Casual Dining,2023-07-06
+1479,Masala Cravings 43699,Pune,Maharashtra,Pizza,Quick Service,2022-03-11
+1480,Little Treats 28369,Mumbai,Maharashtra,Chinese,Fine Dining,2023-07-24
+1481,Masala Bistro 35774,Mumbai,Maharashtra,Fast Food,Cafe,2022-11-20
+1482,Bombay Kitchen 68287,New Delhi,Delhi,Pizza,Casual Dining,2022-02-27
+1483,Green Darbar 86229,Hyderabad,Telangana,Fast Food,Quick Service,2023-11-30
+1484,Green Darbar 64307,New Delhi,Delhi,North Indian,Casual Dining,2022-03-19
+1485,Little Bistro 51466,Bengaluru,Karnataka,North Indian,Casual Dining,2023-06-12
+1486,Green Corner 65296,Mumbai,Maharashtra,North Indian,Casual Dining,2022-04-12
+1487,Spice House 07152,Mumbai,Maharashtra,Chinese,Fine Dining,2022-10-09
+1488,Saffron Express 60851,New Delhi,Delhi,Chinese,Quick Service,2023-12-09
+1489,Punjabi Point 04309,Hyderabad,Telangana,Chinese,Casual Dining,2022-02-15
+1490,Little Hub 95913,Hyderabad,Telangana,Biryani,Casual Dining,2023-05-13
+1491,Spice Bloom 88930,Chennai,Tamil Nadu,Fast Food,Cafe,2021-08-27
+1492,Masala Bowl 50883,Pune,Maharashtra,Burger,Quick Service,2021-12-07
+1493,Punjabi Hub 37470,Pune,Maharashtra,North Indian,Casual Dining,2023-07-12
+1494,Little Point 73257,New Delhi,Delhi,South Indian,Quick Service,2022-07-10
+1495,Punjabi Corner 63793,Kolkata,West Bengal,South Indian,Quick Service,2023-02-10
+1496,Cafe Hub 70573,Hyderabad,Telangana,Chinese,Fine Dining,2022-07-09
+1497,Punjabi Express 51606,Mumbai,Maharashtra,North Indian,Quick Service,2022-08-18
+1498,Urban Bloom 23702,Pune,Maharashtra,Fast Food,Quick Service,2023-04-10
+1499,Sweet Bloom 07417,Mumbai,Maharashtra,Healthy,Cafe,2022-05-25
+1500,Madras Darbar 28401,Hyderabad,Telangana,South Indian,Casual Dining,2023-05-12
+1501,Curry Bistro 52946,Chennai,Tamil Nadu,Burger,Quick Service,2021-10-07
+1502,Delhi Express 42458,Ahmedabad,Gujarat,Desserts,Dessert Shop,2021-09-02
+1503,Little Corner 50685,Jaipur,Rajasthan,Biryani,Casual Dining,2023-08-05
+1504,Madras Corner 27841,Mumbai,Maharashtra,South Indian,Quick Service,2022-03-18
+1505,Saffron Tales 93792,Hyderabad,Telangana,Biryani,Casual Dining,2021-09-17
+1506,Chai House 36737,Kolkata,West Bengal,Desserts,Dessert Shop,2023-09-09
+1507,Chai Cravings 84630,New Delhi,Delhi,North Indian,Quick Service,2022-03-07
+1508,Dosa Express 39156,Kolkata,West Bengal,Biryani,Fine Dining,2021-09-10
+1509,Punjabi Tales 44413,Mumbai,Maharashtra,Pizza,Quick Service,2023-06-13
+1510,Royal Corner 60425,Bengaluru,Karnataka,North Indian,Casual Dining,2022-07-26
+1511,Curry Darbar 26386,Bengaluru,Karnataka,Fast Food,Quick Service,2022-01-13
+1512,Curry Bowl 22066,Kolkata,West Bengal,Biryani,Casual Dining,2023-03-07
+1513,Saffron Junction 37980,Bengaluru,Karnataka,Desserts,Dessert Shop,2023-06-01
+1514,Punjabi Treats 80447,New Delhi,Delhi,Pizza,Quick Service,2023-01-09
+1515,Punjabi Zaika 14545,New Delhi,Delhi,Biryani,Casual Dining,2023-03-06
+1516,Royal Tales 43809,Bengaluru,Karnataka,Fast Food,Cafe,2022-03-20
+1517,Madras Corner 67243,New Delhi,Delhi,Biryani,Casual Dining,2023-02-02
+1518,Punjabi Zaika 70653,Chennai,Tamil Nadu,Chinese,Quick Service,2023-01-28
+1519,Royal Bloom 43496,Bengaluru,Karnataka,South Indian,Fine Dining,2021-09-03
+1520,Green Tales 08236,Kolkata,West Bengal,Pizza,Quick Service,2022-07-30
+1521,Punjabi Express 01689,Ahmedabad,Gujarat,North Indian,Quick Service,2021-09-17
+1522,Urban Zaika 47049,Mumbai,Maharashtra,North Indian,Fine Dining,2022-04-02
+1523,Masala House 81022,Bengaluru,Karnataka,South Indian,Casual Dining,2021-10-27
+1524,Delhi Junction 02919,Hyderabad,Telangana,Chinese,Quick Service,2023-07-10
+1525,Little Cravings 88758,Bengaluru,Karnataka,Chinese,Fine Dining,2021-09-09
+1526,Little Corner 67622,Mumbai,Maharashtra,North Indian,Casual Dining,2021-09-04
+1527,Masala Point 00904,Lucknow,Uttar Pradesh,Biryani,Quick Service,2023-11-26
+1528,Saffron Bowl 34436,Ranchi,Jharkhand,Pizza,Quick Service,2023-02-15
+1529,Royal Junction 22127,Chennai,Tamil Nadu,North Indian,Casual Dining,2022-12-26
+1530,Little Express 94929,New Delhi,Delhi,Biryani,Quick Service,2022-12-20
+1531,Urban House 55522,Pune,Maharashtra,Healthy,Cafe,2022-01-31
+1532,Punjabi Treats 32479,Chennai,Tamil Nadu,North Indian,Casual Dining,2022-04-13
+1533,Tandoori Corner 27876,Mumbai,Maharashtra,Fast Food,Quick Service,2023-06-24
+1534,Biryani Bowl 56423,Pune,Maharashtra,North Indian,Quick Service,2022-07-03
+1535,Madras Treats 00608,Bengaluru,Karnataka,Pizza,Quick Service,2021-08-07
+1536,Cafe Darbar 25812,New Delhi,Delhi,Fast Food,Quick Service,2022-12-01
+1537,Little Hub 16624,Hyderabad,Telangana,Pizza,Cafe,2021-09-18
+1538,Urban Kitchen 62048,Bengaluru,Karnataka,North Indian,Fine Dining,2022-05-27
+1539,Green Cravings 66954,Bengaluru,Karnataka,Chinese,Casual Dining,2021-09-21
+1540,Saffron Junction 46757,Kolkata,West Bengal,Fast Food,Casual Dining,2021-10-11
+1541,Wok Bowl 14088,Ranchi,Jharkhand,North Indian,Quick Service,2023-12-17
+1542,Spice Bowl 37125,Hyderabad,Telangana,North Indian,Casual Dining,2022-01-11
+1543,Curry Darbar 84304,Kolkata,West Bengal,North Indian,Quick Service,2023-07-15
+1544,Cafe House 20448,Ranchi,Jharkhand,Healthy,Casual Dining,2021-12-21
+1545,Wok Cravings 16420,Bengaluru,Karnataka,South Indian,Casual Dining,2022-01-04
+1546,Sweet Kitchen 11240,Mumbai,Maharashtra,South Indian,Casual Dining,2023-05-14
+1547,Dosa Express 81688,Mumbai,Maharashtra,Fast Food,Quick Service,2023-11-03
+1548,Wok Junction 12075,Bengaluru,Karnataka,Chinese,Quick Service,2022-12-20
+1549,Cafe Treats 58203,Chennai,Tamil Nadu,Biryani,Quick Service,2023-04-04
+1550,Bombay Cravings 99903,Mumbai,Maharashtra,Biryani,Quick Service,2022-08-21
+1551,Bombay Tales 64216,Mumbai,Maharashtra,South Indian,Casual Dining,2023-10-20
+1552,Sweet Bloom 41289,Bengaluru,Karnataka,North Indian,Quick Service,2023-11-23
+1553,Spice Corner 20761,Bengaluru,Karnataka,Pizza,Casual Dining,2022-12-04
+1554,Urban Bloom 00292,Ahmedabad,Gujarat,Fast Food,Quick Service,2022-02-08
+1555,Chai Treats 15640,Bengaluru,Karnataka,Biryani,Casual Dining,2023-03-24
+1556,Sweet Zaika 95296,New Delhi,Delhi,Chinese,Casual Dining,2023-03-16
+1557,Curry Express 14445,New Delhi,Delhi,North Indian,Casual Dining,2023-08-07
+1558,Biryani Bistro 02095,Mumbai,Maharashtra,Desserts,Cafe,2023-04-22
+1559,Punjabi Kitchen 81624,Hyderabad,Telangana,Burger,Quick Service,2023-04-08
+1560,Bombay Treats 41916,Mumbai,Maharashtra,Burger,Quick Service,2023-05-13
+1561,Green Bloom 35763,Bengaluru,Karnataka,Biryani,Quick Service,2023-02-26
+1562,Madras Bloom 71775,New Delhi,Delhi,North Indian,Quick Service,2023-04-21
+1563,Curry Treats 52350,Kolkata,West Bengal,North Indian,Fine Dining,2022-04-29
+1564,Chai Bloom 91467,Pune,Maharashtra,North Indian,Casual Dining,2023-03-03
+1565,Urban Express 46812,Pune,Maharashtra,North Indian,Casual Dining,2022-02-21
+1566,Golden House 71316,Pune,Maharashtra,North Indian,Casual Dining,2022-07-06
+1567,Dosa Junction 87897,Chennai,Tamil Nadu,Desserts,Dessert Shop,2022-06-04
+1568,Royal Zaika 46415,Bengaluru,Karnataka,North Indian,Casual Dining,2022-07-25
+1569,Masala Bowl 28499,Mumbai,Maharashtra,North Indian,Casual Dining,2021-09-23
+1570,Dosa Hub 97445,Hyderabad,Telangana,Pizza,Casual Dining,2023-05-16
+1571,Spice Junction 22756,New Delhi,Delhi,Chinese,Casual Dining,2021-07-31
+1572,Saffron Corner 04027,Kolkata,West Bengal,Fast Food,Quick Service,2023-06-30
+1573,Biryani Kitchen 57856,Mumbai,Maharashtra,South Indian,Casual Dining,2023-08-30
+1574,Spice Express 98689,Chennai,Tamil Nadu,Pizza,Quick Service,2021-12-19
+1575,Bombay Kitchen 08735,Ahmedabad,Gujarat,South Indian,Cafe,2021-10-17
+1576,Little Cravings 84953,Mumbai,Maharashtra,Chinese,Quick Service,2023-10-10
+1577,Curry Express 83059,Ahmedabad,Gujarat,South Indian,Quick Service,2022-07-11
+1578,Curry Cravings 92899,Hyderabad,Telangana,Biryani,Quick Service,2022-09-27
+1579,Little House 42213,Ahmedabad,Gujarat,Biryani,Quick Service,2023-06-17
+1580,Little Junction 25551,New Delhi,Delhi,Biryani,Quick Service,2022-09-20
+1581,Wok House 51262,Mumbai,Maharashtra,North Indian,Casual Dining,2022-04-24
+1582,Golden Bistro 14331,Hyderabad,Telangana,Fast Food,Quick Service,2022-08-03
+1583,Bombay Treats 84299,Bengaluru,Karnataka,North Indian,Fine Dining,2022-09-21
+1584,Sweet Zaika 66364,Mumbai,Maharashtra,North Indian,Casual Dining,2021-10-26
+1585,Cafe Bistro 48383,Jaipur,Rajasthan,North Indian,Fine Dining,2023-06-13
+1586,Delhi Treats 51633,Pune,Maharashtra,Pizza,Casual Dining,2022-06-19
+1587,Urban House 71240,Bengaluru,Karnataka,Biryani,Fine Dining,2023-03-23
+1588,Masala Darbar 52363,New Delhi,Delhi,South Indian,Cafe,2021-08-08
+1589,Cafe Tales 83995,Bengaluru,Karnataka,Pizza,Casual Dining,2023-05-20
+1590,Tandoori Hub 92468,Bengaluru,Karnataka,North Indian,Casual Dining,2021-11-08
+1591,Curry Bloom 94983,Jaipur,Rajasthan,Fast Food,Quick Service,2022-06-12
+1592,Chai Kitchen 62045,Mumbai,Maharashtra,Biryani,Quick Service,2023-06-22
+1593,Little House 74280,New Delhi,Delhi,North Indian,Casual Dining,2022-02-18
+1594,Bombay Bistro 31174,Hyderabad,Telangana,South Indian,Cafe,2023-05-29
+1595,Dosa House 03907,Bengaluru,Karnataka,Burger,Quick Service,2023-05-10
+1596,Sweet Tales 40066,New Delhi,Delhi,North Indian,Casual Dining,2023-02-25
+1597,Delhi Tales 87183,Chennai,Tamil Nadu,Chinese,Quick Service,2022-04-28
+1598,Punjabi Bloom 13436,Pune,Maharashtra,North Indian,Casual Dining,2023-01-14
+1599,Golden Point 54616,Ranchi,Jharkhand,Chinese,Quick Service,2022-08-07
+1600,Wok Darbar 19311,Pune,Maharashtra,South Indian,Casual Dining,2022-08-22
+1601,Wok Express 42983,Mumbai,Maharashtra,Chinese,Quick Service,2023-07-09
+1602,Urban Bowl 14420,Chennai,Tamil Nadu,South Indian,Cafe,2023-06-06
+1603,Punjabi Kitchen 73500,Ahmedabad,Gujarat,North Indian,Casual Dining,2023-03-31
+1604,Green Express 81047,Chennai,Tamil Nadu,South Indian,Quick Service,2023-06-15
+1605,Curry Point 75858,Lucknow,Uttar Pradesh,South Indian,Casual Dining,2021-09-27
+1606,Delhi Hub 70516,Kolkata,West Bengal,South Indian,Quick Service,2023-01-23
+1607,Royal Express 23591,Ahmedabad,Gujarat,North Indian,Casual Dining,2023-01-02
+1608,Masala Zaika 53080,Bengaluru,Karnataka,Biryani,Casual Dining,2022-05-07
+1609,Curry Express 10567,Chennai,Tamil Nadu,Biryani,Fine Dining,2022-01-22
+1610,Punjabi Zaika 37498,Mumbai,Maharashtra,North Indian,Quick Service,2022-04-22
+1611,Urban Bloom 50630,Hyderabad,Telangana,North Indian,Casual Dining,2022-08-23
+1612,Sweet Hub 66881,Pune,Maharashtra,Biryani,Quick Service,2021-08-06
+1613,Madras Bloom 09770,Lucknow,Uttar Pradesh,Fast Food,Quick Service,2021-10-14
+1614,Cafe Bistro 81308,Ranchi,Jharkhand,North Indian,Casual Dining,2023-07-03
+1615,Golden Express 45944,New Delhi,Delhi,Pizza,Casual Dining,2023-08-10
+1616,Spice Kitchen 88134,Chennai,Tamil Nadu,Chinese,Quick Service,2023-01-13
+1617,Sweet Bowl 52794,Chennai,Tamil Nadu,Fast Food,Quick Service,2021-12-11
+1618,Masala Bloom 54746,New Delhi,Delhi,Biryani,Casual Dining,2021-08-16
+1619,Delhi Zaika 69289,Bengaluru,Karnataka,Chinese,Casual Dining,2022-04-09
+1620,Bombay Zaika 82005,Bengaluru,Karnataka,Chinese,Casual Dining,2022-04-20
+1621,Cafe Hub 15846,Chennai,Tamil Nadu,Burger,Quick Service,2023-06-05
+1622,Punjabi House 51178,Mumbai,Maharashtra,Chinese,Quick Service,2022-07-17
+1623,Curry Junction 03092,Ranchi,Jharkhand,Chinese,Casual Dining,2023-07-20
+1624,Cafe Hub 47505,Mumbai,Maharashtra,Chinese,Cafe,2022-09-03
+1625,Delhi Express 81369,Lucknow,Uttar Pradesh,South Indian,Casual Dining,2023-07-11
+1626,Saffron Express 86555,Mumbai,Maharashtra,North Indian,Fine Dining,2023-10-26
+1627,Chai Tales 28423,Kolkata,West Bengal,Chinese,Casual Dining,2021-08-14
+1628,Delhi Express 38698,Bengaluru,Karnataka,Chinese,Quick Service,2021-10-19
+1629,Chai Darbar 55200,Hyderabad,Telangana,Burger,Quick Service,2022-04-25
+1630,Little Treats 39651,Kolkata,West Bengal,Chinese,Casual Dining,2022-06-18
+1631,Urban Zaika 17889,Jaipur,Rajasthan,Biryani,Quick Service,2023-05-31
+1632,Royal House 30560,Kolkata,West Bengal,Healthy,Casual Dining,2022-08-05
+1633,Spice Hub 40464,Bengaluru,Karnataka,Biryani,Casual Dining,2022-02-27
+1634,Biryani Darbar 51917,Mumbai,Maharashtra,North Indian,Casual Dining,2022-09-03
+1635,Urban House 92080,Bengaluru,Karnataka,North Indian,Quick Service,2023-04-23
+1636,Golden Point 54529,Bengaluru,Karnataka,North Indian,Cafe,2023-01-14
+1637,Madras Cravings 38772,Pune,Maharashtra,North Indian,Casual Dining,2021-12-06
+1638,Punjabi Kitchen 66079,Chennai,Tamil Nadu,Biryani,Fine Dining,2023-05-17
+1639,Chai Cravings 77327,Chennai,Tamil Nadu,Fast Food,Cafe,2021-08-19
+1640,Chai Tales 43106,Ahmedabad,Gujarat,South Indian,Quick Service,2022-02-21
+1641,Spice Treats 48977,Chennai,Tamil Nadu,North Indian,Casual Dining,2021-10-22
+1642,Punjabi Express 21861,Kolkata,West Bengal,Chinese,Quick Service,2022-09-30
+1643,Biryani House 86491,Bengaluru,Karnataka,North Indian,Quick Service,2023-06-14
+1644,Golden Express 86696,New Delhi,Delhi,Healthy,Cafe,2023-12-02
+1645,Saffron Corner 17573,Pune,Maharashtra,North Indian,Cafe,2022-09-07
+1646,Spice House 34665,Ahmedabad,Gujarat,South Indian,Quick Service,2023-01-07
+1647,Wok Tales 27267,Bengaluru,Karnataka,Biryani,Casual Dining,2023-09-21
+1648,Tandoori Junction 92301,Hyderabad,Telangana,South Indian,Quick Service,2021-09-18
+1649,Punjabi Tales 06615,Pune,Maharashtra,Biryani,Quick Service,2021-08-11
+1650,Masala Darbar 20814,Bengaluru,Karnataka,Fast Food,Quick Service,2023-01-30
+1651,Spice Bowl 31558,Mumbai,Maharashtra,North Indian,Quick Service,2022-05-10
+1652,Cafe Hub 56049,Ahmedabad,Gujarat,Burger,Casual Dining,2022-12-26
+1653,Royal Point 24972,Pune,Maharashtra,Chinese,Quick Service,2022-10-11
+1654,Green Cravings 53707,New Delhi,Delhi,Fast Food,Quick Service,2022-06-19
+1655,Madras Cravings 74747,Ahmedabad,Gujarat,Pizza,Quick Service,2022-12-23
+1656,Tandoori Bistro 82881,New Delhi,Delhi,Desserts,Dessert Shop,2022-01-10
+1657,Dosa Express 09996,Ahmedabad,Gujarat,North Indian,Casual Dining,2023-07-15
+1658,Golden Junction 13971,New Delhi,Delhi,North Indian,Casual Dining,2022-05-10
+1659,Biryani Kitchen 09609,Hyderabad,Telangana,North Indian,Casual Dining,2021-07-31
+1660,Wok House 91001,Mumbai,Maharashtra,North Indian,Casual Dining,2021-11-27
+1661,Chai Bloom 65244,New Delhi,Delhi,Chinese,Cafe,2023-11-21
+1662,Tandoori Treats 53189,Ahmedabad,Gujarat,Desserts,Dessert Shop,2023-09-21
+1663,Saffron House 79111,Bengaluru,Karnataka,Desserts,Cafe,2022-06-15
+1664,Bombay Darbar 58651,Bengaluru,Karnataka,Chinese,Quick Service,2021-09-21
+1665,Madras Junction 23621,New Delhi,Delhi,South Indian,Casual Dining,2021-12-03
+1666,Bombay Cravings 51065,Chennai,Tamil Nadu,Pizza,Quick Service,2021-10-10
+1667,Wok House 70350,Kolkata,West Bengal,Burger,Quick Service,2023-08-20
+1668,Cafe Bowl 03698,Ranchi,Jharkhand,North Indian,Casual Dining,2022-09-21
+1669,Sweet Express 60672,New Delhi,Delhi,Chinese,Quick Service,2022-03-19
+1670,Bombay Junction 49758,Mumbai,Maharashtra,Pizza,Quick Service,2022-06-18
+1671,Green Express 07043,Bengaluru,Karnataka,Biryani,Fine Dining,2022-02-01
+1672,Dosa Bowl 26428,Hyderabad,Telangana,Biryani,Quick Service,2023-06-24
+1673,Dosa Hub 44908,Ranchi,Jharkhand,Desserts,Dessert Shop,2022-11-16
+1674,Sweet Zaika 34334,Chennai,Tamil Nadu,Desserts,Dessert Shop,2022-11-24
+1675,Masala Bloom 29077,Hyderabad,Telangana,Burger,Quick Service,2021-09-08
+1676,Saffron Zaika 64944,Mumbai,Maharashtra,Fast Food,Quick Service,2023-07-03
+1677,Little Bowl 40495,Jaipur,Rajasthan,North Indian,Casual Dining,2023-03-14
+1678,Wok Hub 49819,Mumbai,Maharashtra,Biryani,Quick Service,2023-12-13
+1679,Green Corner 79850,Bengaluru,Karnataka,Chinese,Quick Service,2023-08-18
+1680,Madras Corner 09412,Mumbai,Maharashtra,Chinese,Casual Dining,2021-08-02
+1681,Wok Tales 36054,Bengaluru,Karnataka,Chinese,Casual Dining,2021-11-30
+1682,Bombay Zaika 07396,New Delhi,Delhi,South Indian,Casual Dining,2023-05-13
+1683,Little Junction 92739,Bengaluru,Karnataka,Biryani,Quick Service,2022-04-10
+1684,Cafe Corner 18647,Mumbai,Maharashtra,Fast Food,Quick Service,2022-07-17
+1685,Masala Point 82003,Pune,Maharashtra,Biryani,Quick Service,2021-10-08
+1686,Tandoori Point 19169,New Delhi,Delhi,Biryani,Casual Dining,2023-04-06
+1687,Chai Cravings 32472,Mumbai,Maharashtra,North Indian,Casual Dining,2021-07-21
+1688,Tandoori Hub 60868,Lucknow,Uttar Pradesh,North Indian,Casual Dining,2023-02-02
+1689,Chai Corner 83153,Chennai,Tamil Nadu,Pizza,Quick Service,2022-03-27
+1690,Biryani Bistro 17863,Hyderabad,Telangana,Biryani,Quick Service,2023-01-09
+1691,Green Bowl 21390,New Delhi,Delhi,North Indian,Quick Service,2022-05-07
+1692,Delhi House 88182,Ahmedabad,Gujarat,Fast Food,Quick Service,2023-03-06
+1693,Curry Express 32263,New Delhi,Delhi,Chinese,Quick Service,2021-12-04
+1694,Dosa House 21054,New Delhi,Delhi,North Indian,Quick Service,2022-06-07
+1695,Golden Hub 74377,Ahmedabad,Gujarat,Biryani,Casual Dining,2023-04-17
+1696,Sweet Bloom 09203,Hyderabad,Telangana,North Indian,Fine Dining,2021-08-20
+1697,Royal Bowl 86708,Chennai,Tamil Nadu,South Indian,Casual Dining,2022-04-03
+1698,Delhi Bloom 87586,Hyderabad,Telangana,North Indian,Casual Dining,2022-12-12
+1699,Biryani Treats 85665,Pune,Maharashtra,North Indian,Casual Dining,2023-09-01
+1700,Masala Darbar 29602,New Delhi,Delhi,North Indian,Casual Dining,2021-08-09
+1701,Masala Bloom 11509,New Delhi,Delhi,Chinese,Quick Service,2022-02-21
+1702,Biryani House 42599,New Delhi,Delhi,North Indian,Casual Dining,2022-05-10
+1703,Madras Tales 33523,Bengaluru,Karnataka,Pizza,Quick Service,2021-12-13
+1704,Madras Treats 95905,Ahmedabad,Gujarat,North Indian,Quick Service,2022-07-04
+1705,Tandoori Hub 63205,New Delhi,Delhi,Chinese,Quick Service,2023-06-07
+1706,Delhi Zaika 94441,Hyderabad,Telangana,Biryani,Quick Service,2023-06-02
+1707,Green Treats 75111,Kolkata,West Bengal,Biryani,Casual Dining,2023-10-22
+1708,Dosa Cravings 71519,Kolkata,West Bengal,North Indian,Casual Dining,2023-11-06
+1709,Sweet Hub 11273,Mumbai,Maharashtra,Fast Food,Cafe,2022-03-17
+1710,Curry Bowl 06986,Mumbai,Maharashtra,Burger,Quick Service,2021-11-26
+1711,Little Cravings 04744,Ranchi,Jharkhand,North Indian,Casual Dining,2023-08-07
+1712,Sweet Express 59374,Pune,Maharashtra,North Indian,Casual Dining,2022-08-03
+1713,Spice Corner 20250,Kolkata,West Bengal,Burger,Quick Service,2023-09-12
+1714,Bombay Bistro 98907,Ahmedabad,Gujarat,Chinese,Quick Service,2022-12-25
+1715,Madras House 13352,Kolkata,West Bengal,North Indian,Casual Dining,2022-01-20
+1716,Royal Point 94695,Bengaluru,Karnataka,North Indian,Casual Dining,2022-01-01
+1717,Cafe Darbar 66796,Hyderabad,Telangana,South Indian,Casual Dining,2021-08-31
+1718,Tandoori Hub 10689,Bengaluru,Karnataka,South Indian,Quick Service,2023-03-28
+1719,Wok Treats 05939,Pune,Maharashtra,Chinese,Casual Dining,2021-08-31
+1720,Tandoori Express 39656,Lucknow,Uttar Pradesh,Healthy,Casual Dining,2022-01-26
+1721,Delhi Corner 33961,Hyderabad,Telangana,Chinese,Casual Dining,2023-03-03
+1722,Golden Tales 31621,Mumbai,Maharashtra,Biryani,Casual Dining,2023-03-12
+1723,Masala House 52902,Bengaluru,Karnataka,Biryani,Casual Dining,2023-09-27
+1724,Wok Treats 13059,Lucknow,Uttar Pradesh,Biryani,Casual Dining,2021-09-25
+1725,Golden Bloom 13032,Bengaluru,Karnataka,North Indian,Casual Dining,2023-07-03
+1726,Urban Corner 69509,Bengaluru,Karnataka,North Indian,Casual Dining,2023-05-05
+1727,Chai Bowl 99030,New Delhi,Delhi,Biryani,Casual Dining,2022-12-26
+1728,Golden Bloom 27457,Bengaluru,Karnataka,South Indian,Casual Dining,2023-08-31
+1729,Green Hub 93198,Mumbai,Maharashtra,North Indian,Casual Dining,2022-01-06
+1730,Cafe House 34551,Hyderabad,Telangana,Biryani,Quick Service,2022-04-13
+1731,Dosa Darbar 33654,New Delhi,Delhi,South Indian,Casual Dining,2023-08-14
+1732,Madras Junction 09126,Bengaluru,Karnataka,Chinese,Quick Service,2023-08-08
+1733,Golden Darbar 42389,Bengaluru,Karnataka,Fast Food,Casual Dining,2023-12-13
+1734,Saffron Bowl 49846,Mumbai,Maharashtra,Fast Food,Casual Dining,2021-08-30
+1735,Curry Junction 66409,Bengaluru,Karnataka,South Indian,Quick Service,2022-12-05
+1736,Biryani Tales 15900,Pune,Maharashtra,North Indian,Quick Service,2022-05-22
+1737,Little Corner 18950,New Delhi,Delhi,Biryani,Quick Service,2023-08-20
+1738,Madras Hub 43265,New Delhi,Delhi,Chinese,Fine Dining,2023-06-08
+1739,Delhi Junction 07057,Mumbai,Maharashtra,North Indian,Quick Service,2022-09-01
+1740,Dosa Tales 14419,Mumbai,Maharashtra,North Indian,Casual Dining,2023-06-28
+1741,Cafe Point 62943,Bengaluru,Karnataka,North Indian,Casual Dining,2022-06-29
+1742,Cafe Kitchen 95388,Bengaluru,Karnataka,Biryani,Casual Dining,2021-09-22
+1743,Sweet Zaika 57338,Ahmedabad,Gujarat,Biryani,Quick Service,2023-04-02
+1744,Biryani Bistro 14583,Bengaluru,Karnataka,North Indian,Fine Dining,2022-07-03
+1745,Bombay Bloom 99098,Mumbai,Maharashtra,Pizza,Quick Service,2021-09-29
+1746,Wok Point 52236,Mumbai,Maharashtra,Burger,Quick Service,2021-10-19
+1747,Spice Zaika 71712,New Delhi,Delhi,North Indian,Cafe,2023-12-26
+1748,Curry Darbar 19778,Mumbai,Maharashtra,Burger,Quick Service,2023-09-24
+1749,Chai Junction 57885,Kolkata,West Bengal,North Indian,Quick Service,2021-07-28
+1750,Golden Hub 07728,Kolkata,West Bengal,Burger,Cafe,2021-09-21
+1751,Wok Bowl 62610,New Delhi,Delhi,Healthy,Fine Dining,2023-03-18
+1752,Saffron Darbar 20310,New Delhi,Delhi,North Indian,Casual Dining,2022-09-20
+1753,Biryani Bowl 90959,New Delhi,Delhi,Fast Food,Quick Service,2022-08-04
+1754,Madras Bistro 05571,Mumbai,Maharashtra,Desserts,Cafe,2022-05-10
+1755,Biryani Bowl 65297,Pune,Maharashtra,Burger,Cafe,2022-02-25
+1756,Bombay Bowl 14025,New Delhi,Delhi,Desserts,Dessert Shop,2023-01-31
+1757,Punjabi Point 68742,New Delhi,Delhi,Chinese,Fine Dining,2021-10-23
+1758,Dosa Bowl 49398,Jaipur,Rajasthan,North Indian,Fine Dining,2023-11-09
+1759,Royal Corner 96750,Bengaluru,Karnataka,Pizza,Quick Service,2023-12-03
+1760,Golden Hub 65215,Mumbai,Maharashtra,Chinese,Casual Dining,2021-08-22
+1761,Sweet Tales 37262,Chennai,Tamil Nadu,Chinese,Quick Service,2023-07-26
+1762,Masala Tales 08825,Bengaluru,Karnataka,Biryani,Quick Service,2021-07-20
+1763,Royal Bloom 59615,Bengaluru,Karnataka,Chinese,Casual Dining,2023-04-19
+1764,Wok Bowl 44157,Bengaluru,Karnataka,North Indian,Cafe,2023-02-07
+1765,Sweet Bowl 05345,Jaipur,Rajasthan,South Indian,Quick Service,2023-12-07
+1766,Green Kitchen 58165,Bengaluru,Karnataka,North Indian,Casual Dining,2021-09-04
+1767,Spice Corner 21078,Bengaluru,Karnataka,South Indian,Casual Dining,2023-02-12
+1768,Spice House 23498,Bengaluru,Karnataka,Pizza,Casual Dining,2023-08-04
+1769,Wok Kitchen 00994,Bengaluru,Karnataka,Biryani,Fine Dining,2022-10-23
+1770,Biryani Junction 37270,Pune,Maharashtra,Chinese,Quick Service,2023-08-15
+1771,Wok Junction 21904,New Delhi,Delhi,Biryani,Quick Service,2022-01-21
+1772,Chai Cravings 07276,Hyderabad,Telangana,Healthy,Cafe,2023-10-28
+1773,Urban House 43485,Hyderabad,Telangana,South Indian,Quick Service,2022-10-09
+1774,Golden Treats 22090,Kolkata,West Bengal,Biryani,Quick Service,2023-01-14
+1775,Bombay Zaika 13502,Bengaluru,Karnataka,North Indian,Casual Dining,2023-11-29
+1776,Punjabi Express 46728,Ahmedabad,Gujarat,North Indian,Fine Dining,2023-11-15
+1777,Royal Express 06417,Hyderabad,Telangana,Biryani,Quick Service,2022-09-22
+1778,Dosa Bowl 99044,Bengaluru,Karnataka,Healthy,Cafe,2023-01-11
+1779,Little Point 47148,Chennai,Tamil Nadu,South Indian,Fine Dining,2023-09-07
+1780,Green Treats 99625,Ahmedabad,Gujarat,North Indian,Casual Dining,2023-08-30
+1781,Tandoori Treats 88146,New Delhi,Delhi,Pizza,Quick Service,2022-01-07
+1782,Little Bowl 97963,Jaipur,Rajasthan,Biryani,Casual Dining,2022-03-15
+1783,Golden House 54318,Mumbai,Maharashtra,Pizza,Quick Service,2022-07-03
+1784,Little Tales 42365,Hyderabad,Telangana,North Indian,Casual Dining,2021-12-12
+1785,Sweet House 72016,Ranchi,Jharkhand,Chinese,Fine Dining,2023-10-31
+1786,Urban House 08159,Mumbai,Maharashtra,Burger,Casual Dining,2022-04-22
+1787,Biryani Junction 84034,Kolkata,West Bengal,North Indian,Cafe,2022-02-23
+1788,Wok Tales 32424,New Delhi,Delhi,South Indian,Quick Service,2023-07-05
+1789,Sweet Treats 00840,Kolkata,West Bengal,Desserts,Cafe,2022-09-06
+1790,Saffron Cravings 23847,Hyderabad,Telangana,North Indian,Casual Dining,2022-02-10
+1791,Curry Kitchen 24307,New Delhi,Delhi,North Indian,Casual Dining,2022-07-07
+1792,Green Point 01511,Mumbai,Maharashtra,South Indian,Fine Dining,2023-05-22
+1793,Saffron Hub 66890,New Delhi,Delhi,Biryani,Cafe,2022-05-13
+1794,Curry Corner 09613,Bengaluru,Karnataka,North Indian,Casual Dining,2022-02-17
+1795,Golden Zaika 84684,Bengaluru,Karnataka,Biryani,Quick Service,2023-12-24
+1796,Green Bowl 45373,New Delhi,Delhi,Fast Food,Quick Service,2022-08-09
+1797,Bombay Tales 71851,Bengaluru,Karnataka,North Indian,Casual Dining,2022-10-04
+1798,Delhi Bloom 34031,Bengaluru,Karnataka,Biryani,Casual Dining,2023-02-05
+1799,Delhi Corner 13285,Chennai,Tamil Nadu,Pizza,Casual Dining,2023-11-23
+1800,Wok Junction 18117,Chennai,Tamil Nadu,Chinese,Quick Service,2023-10-18
+1801,Green Bowl 64622,Chennai,Tamil Nadu,Pizza,Quick Service,2022-02-25
+1802,Dosa Junction 71637,New Delhi,Delhi,Biryani,Quick Service,2021-12-18
+1803,Saffron Darbar 26825,Ahmedabad,Gujarat,Healthy,Quick Service,2022-12-20
+1804,Biryani Tales 35775,Hyderabad,Telangana,South Indian,Quick Service,2021-09-08
+1805,Bombay Kitchen 94509,Bengaluru,Karnataka,North Indian,Quick Service,2021-09-19
+1806,Golden Express 85200,Bengaluru,Karnataka,Pizza,Quick Service,2022-05-12
+1807,Golden Darbar 41362,Pune,Maharashtra,Chinese,Fine Dining,2022-07-28
+1808,Golden Junction 24173,Bengaluru,Karnataka,North Indian,Fine Dining,2021-08-16
+1809,Chai Hub 30204,Mumbai,Maharashtra,North Indian,Fine Dining,2022-07-02
+1810,Chai Express 53884,Ranchi,Jharkhand,South Indian,Casual Dining,2021-09-13
+1811,Sweet Bowl 56720,Bengaluru,Karnataka,North Indian,Casual Dining,2021-08-03
+1812,Biryani Bloom 18495,Bengaluru,Karnataka,North Indian,Cafe,2023-07-10
+1813,Royal Bowl 06676,Ranchi,Jharkhand,North Indian,Quick Service,2022-05-17
+1814,Delhi Hub 49580,Hyderabad,Telangana,Biryani,Cafe,2022-03-14
+1815,Little Tales 79765,Bengaluru,Karnataka,Biryani,Casual Dining,2021-12-24
+1816,Royal House 15331,Ahmedabad,Gujarat,Chinese,Quick Service,2023-02-21
+1817,Madras Bloom 40894,Ahmedabad,Gujarat,North Indian,Casual Dining,2021-11-17
+1818,Little Bloom 16241,Hyderabad,Telangana,North Indian,Fine Dining,2022-10-20
+1819,Curry Junction 24289,Pune,Maharashtra,Chinese,Casual Dining,2023-01-18
+1820,Delhi Express 61260,New Delhi,Delhi,Biryani,Casual Dining,2023-08-13
+1821,Wok Treats 28690,Bengaluru,Karnataka,South Indian,Casual Dining,2023-03-18
+1822,Cafe Point 26451,Hyderabad,Telangana,North Indian,Quick Service,2021-08-07
+1823,Dosa Treats 99565,New Delhi,Delhi,North Indian,Quick Service,2022-03-28
+1824,Curry Junction 17319,Pune,Maharashtra,North Indian,Casual Dining,2022-03-19
+1825,Green Junction 19009,Kolkata,West Bengal,Biryani,Casual Dining,2021-10-17
+1826,Green Junction 92982,Bengaluru,Karnataka,Biryani,Quick Service,2023-05-06
+1827,Little Express 55065,Hyderabad,Telangana,Fast Food,Quick Service,2022-05-16
+1828,Punjabi House 04395,New Delhi,Delhi,Biryani,Casual Dining,2023-02-01
+1829,Masala Zaika 42552,Ahmedabad,Gujarat,Chinese,Quick Service,2021-11-29
+1830,Dosa Kitchen 56557,New Delhi,Delhi,Chinese,Casual Dining,2022-12-17
+1831,Tandoori Kitchen 25393,Hyderabad,Telangana,North Indian,Casual Dining,2021-11-23
+1832,Madras Point 54871,Hyderabad,Telangana,Chinese,Casual Dining,2022-02-28
+1833,Royal Kitchen 64885,Mumbai,Maharashtra,Biryani,Casual Dining,2022-02-06
+1834,Little Bloom 25135,Pune,Maharashtra,Biryani,Casual Dining,2021-09-20
+1835,Green Junction 81257,Chennai,Tamil Nadu,North Indian,Casual Dining,2022-01-20
+1836,Sweet Tales 45331,Hyderabad,Telangana,Fast Food,Cafe,2023-03-18
+1837,Cafe Treats 96348,Chennai,Tamil Nadu,Healthy,Quick Service,2022-09-19
+1838,Little Tales 08864,Ranchi,Jharkhand,North Indian,Casual Dining,2022-11-02
+1839,Wok Treats 32490,Mumbai,Maharashtra,Chinese,Casual Dining,2023-11-04
+1840,Delhi Darbar 72154,Hyderabad,Telangana,Fast Food,Quick Service,2022-07-17
+1841,Tandoori Bowl 89501,Bengaluru,Karnataka,North Indian,Quick Service,2022-12-04
+1842,Sweet Tales 22247,Kolkata,West Bengal,Fast Food,Quick Service,2023-01-12
+1843,Urban House 98026,Hyderabad,Telangana,South Indian,Quick Service,2023-09-25
+1844,Wok Corner 19419,Mumbai,Maharashtra,Burger,Quick Service,2022-10-05
+1845,Punjabi Bowl 41670,Bengaluru,Karnataka,Desserts,Cafe,2022-07-29
+1846,Urban Bistro 31556,Ahmedabad,Gujarat,North Indian,Casual Dining,2023-09-28
+1847,Wok Bowl 42489,Mumbai,Maharashtra,Biryani,Casual Dining,2022-06-09
+1848,Chai Point 90245,Pune,Maharashtra,Chinese,Quick Service,2023-08-04
+1849,Delhi Tales 73281,Bengaluru,Karnataka,North Indian,Quick Service,2023-08-24
+1850,Biryani Bistro 79666,Lucknow,Uttar Pradesh,Biryani,Casual Dining,2023-01-06
+1851,Chai Bowl 25474,Bengaluru,Karnataka,Desserts,Dessert Shop,2023-01-16
+1852,Madras Express 94693,Bengaluru,Karnataka,North Indian,Casual Dining,2021-09-30
+1853,Curry Zaika 43609,Ahmedabad,Gujarat,Biryani,Casual Dining,2023-11-02
+1854,Little Cravings 65230,Jaipur,Rajasthan,Pizza,Quick Service,2023-02-21
+1855,Dosa Point 69801,New Delhi,Delhi,Biryani,Fine Dining,2022-03-11
+1856,Dosa House 66325,Mumbai,Maharashtra,Biryani,Quick Service,2023-05-22
+1857,Royal Zaika 60218,Chennai,Tamil Nadu,Desserts,Cafe,2021-08-01
+1858,Masala Zaika 48054,Ahmedabad,Gujarat,Biryani,Casual Dining,2022-03-04
+1859,Delhi Junction 64798,Mumbai,Maharashtra,North Indian,Casual Dining,2021-09-02
+1860,Dosa Kitchen 90527,Hyderabad,Telangana,North Indian,Fine Dining,2021-08-30
+1861,Wok Tales 39038,Chennai,Tamil Nadu,Healthy,Casual Dining,2023-09-25
+1862,Masala Tales 51136,Chennai,Tamil Nadu,North Indian,Casual Dining,2022-11-14
+1863,Bombay House 18089,Kolkata,West Bengal,Chinese,Fine Dining,2022-03-02
+1864,Punjabi Tales 35570,Hyderabad,Telangana,North Indian,Casual Dining,2023-12-25
+1865,Sweet Treats 77226,Bengaluru,Karnataka,Biryani,Casual Dining,2022-11-21
+1866,Saffron Bloom 64072,Ahmedabad,Gujarat,Burger,Quick Service,2022-04-22
+1867,Delhi Junction 21193,Ahmedabad,Gujarat,Chinese,Casual Dining,2022-01-18
+1868,Spice Corner 54658,Kolkata,West Bengal,Desserts,Dessert Shop,2022-12-24
+1869,Cafe House 81214,Bengaluru,Karnataka,North Indian,Quick Service,2021-11-16
+1870,Sweet Bloom 12489,New Delhi,Delhi,Chinese,Casual Dining,2022-05-05
+1871,Cafe House 06288,Chennai,Tamil Nadu,Pizza,Quick Service,2023-11-22
+1872,Punjabi Corner 39332,Bengaluru,Karnataka,Biryani,Cafe,2023-04-27
+1873,Sweet Express 65688,Lucknow,Uttar Pradesh,North Indian,Casual Dining,2021-09-09
+1874,Bombay Bloom 31400,Mumbai,Maharashtra,Pizza,Quick Service,2023-12-30
+1875,Wok Bistro 82120,Chennai,Tamil Nadu,Biryani,Quick Service,2023-09-26
+1876,Biryani Bowl 84697,Ahmedabad,Gujarat,Chinese,Quick Service,2023-02-25
+1877,Cafe Bloom 53298,Mumbai,Maharashtra,Desserts,Dessert Shop,2021-07-21
+1878,Curry Tales 37945,New Delhi,Delhi,North Indian,Casual Dining,2022-04-07
+1879,Tandoori Corner 04267,Hyderabad,Telangana,Biryani,Casual Dining,2023-08-22
+1880,Bombay Hub 82172,Hyderabad,Telangana,North Indian,Fine Dining,2023-01-13
+1881,Chai Tales 89537,Mumbai,Maharashtra,Biryani,Quick Service,2021-09-08
+1882,Punjabi Zaika 44294,Hyderabad,Telangana,North Indian,Fine Dining,2023-06-18
+1883,Punjabi Express 51694,Jaipur,Rajasthan,South Indian,Casual Dining,2022-08-02
+1884,Cafe Kitchen 75373,Mumbai,Maharashtra,North Indian,Fine Dining,2022-11-10
+1885,Madras Treats 69566,Bengaluru,Karnataka,South Indian,Casual Dining,2022-02-16
+1886,Royal Express 13614,Mumbai,Maharashtra,North Indian,Casual Dining,2022-02-23
+1887,Dosa Darbar 67263,Mumbai,Maharashtra,Biryani,Quick Service,2021-12-13
+1888,Delhi Express 92471,Bengaluru,Karnataka,Biryani,Casual Dining,2023-09-16
+1889,Masala Bistro 75092,Bengaluru,Karnataka,South Indian,Casual Dining,2022-11-19
+1890,Chai House 48107,Pune,Maharashtra,Biryani,Casual Dining,2022-04-19
+1891,Chai Express 52363,New Delhi,Delhi,Biryani,Casual Dining,2022-12-20
+1892,Spice Darbar 26053,Lucknow,Uttar Pradesh,Pizza,Quick Service,2022-05-11
+1893,Chai Corner 66109,New Delhi,Delhi,Chinese,Cafe,2022-06-08
+1894,Curry Corner 24224,Bengaluru,Karnataka,North Indian,Casual Dining,2023-02-02
+1895,Tandoori Bistro 34251,Chennai,Tamil Nadu,Burger,Quick Service,2023-10-03
+1896,Spice Zaika 26580,Ahmedabad,Gujarat,Biryani,Quick Service,2021-08-11
+1897,Spice Hub 33598,New Delhi,Delhi,North Indian,Quick Service,2021-12-19
+1898,Bombay Junction 36735,New Delhi,Delhi,Chinese,Casual Dining,2021-10-18
+1899,Biryani Point 08389,Bengaluru,Karnataka,North Indian,Casual Dining,2023-04-07
+1900,Delhi Point 71779,Hyderabad,Telangana,North Indian,Fine Dining,2023-03-23
+1901,Sweet Zaika 44154,Mumbai,Maharashtra,Fast Food,Quick Service,2023-03-16
+1902,Chai House 94964,New Delhi,Delhi,North Indian,Casual Dining,2023-12-05
+1903,Golden Kitchen 18170,Bengaluru,Karnataka,Fast Food,Quick Service,2023-08-02
+1904,Madras Junction 66936,Mumbai,Maharashtra,Burger,Quick Service,2023-03-30
+1905,Masala Point 18000,Lucknow,Uttar Pradesh,Chinese,Quick Service,2021-07-27
+1906,Sweet Express 54761,Pune,Maharashtra,South Indian,Fine Dining,2023-07-01
+1907,Madras Tales 49138,Mumbai,Maharashtra,South Indian,Casual Dining,2022-10-01
+1908,Chai House 44914,Bengaluru,Karnataka,Desserts,Cafe,2022-08-27
+1909,Wok Bloom 65505,New Delhi,Delhi,Biryani,Cafe,2023-02-12
+1910,Golden Point 82835,New Delhi,Delhi,North Indian,Fine Dining,2021-09-27
+1911,Green Tales 31740,Chennai,Tamil Nadu,Chinese,Quick Service,2023-10-10
+1912,Punjabi Junction 84979,Ahmedabad,Gujarat,Chinese,Quick Service,2021-11-09
+1913,Little Darbar 18566,Ahmedabad,Gujarat,North Indian,Casual Dining,2022-03-03
+1914,Green Bistro 29374,Ranchi,Jharkhand,Chinese,Quick Service,2023-04-01
+1915,Royal Cravings 31135,Ranchi,Jharkhand,North Indian,Casual Dining,2022-02-10
+1916,Spice Treats 95345,Lucknow,Uttar Pradesh,Burger,Casual Dining,2022-12-12
+1917,Urban Junction 11945,Bengaluru,Karnataka,North Indian,Cafe,2021-08-11
+1918,Chai Darbar 39571,Bengaluru,Karnataka,North Indian,Fine Dining,2023-11-30
+1919,Bombay Kitchen 42500,New Delhi,Delhi,North Indian,Fine Dining,2023-12-06
+1920,Punjabi Bloom 80026,Hyderabad,Telangana,North Indian,Casual Dining,2022-08-30
+1921,Golden Junction 48640,Bengaluru,Karnataka,North Indian,Fine Dining,2021-09-15
+1922,Wok House 96684,Kolkata,West Bengal,North Indian,Casual Dining,2023-11-05
+1923,Tandoori Express 74057,Hyderabad,Telangana,North Indian,Cafe,2022-01-31
+1924,Saffron Zaika 70394,Hyderabad,Telangana,North Indian,Quick Service,2021-09-09
+1925,Little Zaika 75315,Bengaluru,Karnataka,Biryani,Quick Service,2022-10-21
+1926,Wok Kitchen 16238,New Delhi,Delhi,Biryani,Quick Service,2021-11-12
+1927,Biryani Express 44959,Bengaluru,Karnataka,Biryani,Casual Dining,2022-02-19
+1928,Tandoori Bowl 58654,Ahmedabad,Gujarat,Biryani,Quick Service,2023-06-23
+1929,Little Treats 20926,Hyderabad,Telangana,North Indian,Casual Dining,2021-11-24
+1930,Dosa Bistro 11965,Chennai,Tamil Nadu,North Indian,Casual Dining,2022-04-12
+1931,Urban House 13662,New Delhi,Delhi,North Indian,Quick Service,2023-12-21
+1932,Bombay Tales 78934,Mumbai,Maharashtra,Fast Food,Quick Service,2022-08-08
+1933,Golden Bowl 65721,Mumbai,Maharashtra,Desserts,Cafe,2022-05-23
+1934,Green Bloom 28203,Chennai,Tamil Nadu,Burger,Quick Service,2022-01-10
+1935,Cafe Treats 73746,Chennai,Tamil Nadu,Chinese,Casual Dining,2022-02-06
+1936,Delhi Bloom 69551,New Delhi,Delhi,Chinese,Casual Dining,2022-10-30
+1937,Dosa Kitchen 81667,Jaipur,Rajasthan,Biryani,Casual Dining,2023-04-07
+1938,Sweet Kitchen 91017,Bengaluru,Karnataka,Fast Food,Quick Service,2023-07-13
+1939,Madras Bowl 88234,Ahmedabad,Gujarat,Fast Food,Quick Service,2023-10-13
+1940,Green Point 18182,Bengaluru,Karnataka,Pizza,Quick Service,2022-06-05
+1941,Masala Junction 76948,New Delhi,Delhi,Burger,Quick Service,2021-08-21
+1942,Spice Zaika 39346,Kolkata,West Bengal,Biryani,Quick Service,2023-10-21
+1943,Wok House 40371,Bengaluru,Karnataka,Fast Food,Cafe,2022-04-09
+1944,Masala Treats 64746,Mumbai,Maharashtra,Fast Food,Cafe,2022-07-24
+1945,Saffron House 60257,Mumbai,Maharashtra,Biryani,Casual Dining,2023-07-31
+1946,Green Point 42023,New Delhi,Delhi,Burger,Quick Service,2023-06-24
+1947,Royal Treats 99947,Chennai,Tamil Nadu,North Indian,Quick Service,2023-04-20
+1948,Little Bloom 17564,Ahmedabad,Gujarat,Desserts,Dessert Shop,2022-04-25
+1949,Wok Treats 09781,Ahmedabad,Gujarat,Fast Food,Quick Service,2023-04-08
+1950,Little House 03004,New Delhi,Delhi,North Indian,Casual Dining,2021-12-17
+1951,Royal Junction 81441,Hyderabad,Telangana,South Indian,Fine Dining,2023-02-03
+1952,Tandoori Cravings 40718,New Delhi,Delhi,North Indian,Fine Dining,2023-09-25
+1953,Delhi Bloom 43790,New Delhi,Delhi,Fast Food,Casual Dining,2023-10-08
+1954,Golden Bowl 64955,Bengaluru,Karnataka,Fast Food,Quick Service,2023-01-06
+1955,Tandoori Kitchen 43595,Jaipur,Rajasthan,Chinese,Casual Dining,2022-12-30
+1956,Cafe Kitchen 57440,Ahmedabad,Gujarat,Pizza,Cafe,2022-03-12
+1957,Punjabi House 05939,Chennai,Tamil Nadu,North Indian,Casual Dining,2022-10-28
+1958,Dosa Zaika 15708,Hyderabad,Telangana,North Indian,Casual Dining,2023-08-07
+1959,Green Express 93209,Mumbai,Maharashtra,Biryani,Quick Service,2023-06-24
+1960,Royal House 45123,Hyderabad,Telangana,North Indian,Casual Dining,2022-08-10
+1961,Delhi Bistro 16821,Hyderabad,Telangana,Biryani,Casual Dining,2023-03-07
+1962,Curry Bistro 37009,Mumbai,Maharashtra,North Indian,Casual Dining,2022-05-07
+1963,Dosa Cravings 33545,Bengaluru,Karnataka,Biryani,Cafe,2021-09-23
+1964,Madras Express 27492,Bengaluru,Karnataka,Biryani,Cafe,2023-02-16
+1965,Biryani Junction 29431,Lucknow,Uttar Pradesh,Pizza,Cafe,2022-08-23
+1966,Green Darbar 72953,Mumbai,Maharashtra,North Indian,Casual Dining,2021-12-14
+1967,Dosa Corner 10765,Lucknow,Uttar Pradesh,Burger,Quick Service,2023-06-26
+1968,Saffron Darbar 31033,Bengaluru,Karnataka,Biryani,Quick Service,2022-09-29
+1969,Sweet Cravings 46847,Hyderabad,Telangana,Biryani,Casual Dining,2023-04-02
+1970,Madras House 54059,New Delhi,Delhi,Chinese,Casual Dining,2022-06-16
+1971,Biryani Hub 88061,New Delhi,Delhi,Biryani,Quick Service,2022-03-04
+1972,Chai Junction 92329,Bengaluru,Karnataka,North Indian,Fine Dining,2023-08-28
+1973,Masala Point 29811,Bengaluru,Karnataka,Chinese,Quick Service,2023-07-17
+1974,Bombay Kitchen 53973,Jaipur,Rajasthan,North Indian,Casual Dining,2023-12-12
+1975,Masala Tales 02333,New Delhi,Delhi,Biryani,Casual Dining,2023-12-22
+1976,Madras Kitchen 61739,Hyderabad,Telangana,Chinese,Casual Dining,2023-11-17
+1977,Sweet Tales 15374,Mumbai,Maharashtra,Biryani,Fine Dining,2022-04-05
+1978,Biryani Kitchen 07417,Mumbai,Maharashtra,Pizza,Quick Service,2021-10-10
+1979,Spice Bloom 67204,Hyderabad,Telangana,North Indian,Casual Dining,2022-12-29
+1980,Delhi Bloom 17895,Bengaluru,Karnataka,Healthy,Quick Service,2021-10-29
+1981,Punjabi Junction 47789,Ranchi,Jharkhand,Fast Food,Quick Service,2022-03-16
+1982,Wok Corner 10184,Kolkata,West Bengal,Healthy,Cafe,2022-01-05
+1983,Wok Kitchen 74591,Chennai,Tamil Nadu,Pizza,Quick Service,2022-03-07
+1984,Sweet Hub 76504,Mumbai,Maharashtra,North Indian,Casual Dining,2023-07-06
+1985,Green Kitchen 57522,Bengaluru,Karnataka,Chinese,Casual Dining,2022-09-17
+1986,Tandoori Point 83607,Jaipur,Rajasthan,North Indian,Casual Dining,2022-09-16
+1987,Green Kitchen 43736,New Delhi,Delhi,Fast Food,Quick Service,2022-06-03
+1988,Masala Bloom 18726,Bengaluru,Karnataka,Chinese,Quick Service,2022-01-15
+1989,Curry Treats 15218,New Delhi,Delhi,North Indian,Casual Dining,2023-09-22
+1990,Green Zaika 22005,Kolkata,West Bengal,Burger,Quick Service,2022-05-04
+1991,Masala Junction 20110,Pune,Maharashtra,North Indian,Fine Dining,2021-12-13
+1992,Sweet Hub 32388,Chennai,Tamil Nadu,Chinese,Quick Service,2023-09-20
+1993,Masala Cravings 21512,Kolkata,West Bengal,South Indian,Quick Service,2022-12-24
+1994,Urban Hub 59148,New Delhi,Delhi,North Indian,Fine Dining,2021-10-18
+1995,Tandoori Treats 14921,Jaipur,Rajasthan,Chinese,Quick Service,2023-12-11
+1996,Tandoori Bistro 62216,Mumbai,Maharashtra,Fast Food,Quick Service,2023-08-10
+1997,Golden Express 33476,Pune,Maharashtra,North Indian,Fine Dining,2022-01-08
+1998,Saffron Corner 68706,Bengaluru,Karnataka,Chinese,Casual Dining,2023-07-31
+1999,Masala Darbar 51340,Ranchi,Jharkhand,North Indian,Casual Dining,2022-04-10
+2000,Sweet Zaika 90527,New Delhi,Delhi,South Indian,Quick Service,2021-10-13
+2001,Delhi Bowl 44043,Bengaluru,Karnataka,North Indian,Fine Dining,2022-10-10
+2002,Golden Tales 29574,Mumbai,Maharashtra,Burger,Quick Service,2022-10-22
+2003,Chai Tales 58952,Bengaluru,Karnataka,Burger,Quick Service,2022-12-12
+2004,Saffron Express 65909,Bengaluru,Karnataka,North Indian,Quick Service,2023-01-31
+2005,Cafe Tales 43979,Pune,Maharashtra,Biryani,Quick Service,2023-01-24
+2006,Biryani Kitchen 56015,Mumbai,Maharashtra,Chinese,Quick Service,2022-08-21
+2007,Delhi Kitchen 47139,Jaipur,Rajasthan,South Indian,Cafe,2021-10-18
+2008,Green Treats 30652,New Delhi,Delhi,Biryani,Casual Dining,2021-08-01
+2009,Urban Cravings 31424,Chennai,Tamil Nadu,North Indian,Casual Dining,2021-11-13
+2010,Masala Cravings 90749,Mumbai,Maharashtra,North Indian,Fine Dining,2023-09-16
+2011,Madras Express 67565,Pune,Maharashtra,Desserts,Dessert Shop,2023-03-31
+2012,Madras Bowl 09638,Hyderabad,Telangana,Biryani,Casual Dining,2022-02-19
+2013,Tandoori Bistro 96210,Mumbai,Maharashtra,Pizza,Quick Service,2022-08-29
+2014,Little Treats 71228,Lucknow,Uttar Pradesh,Chinese,Fine Dining,2023-03-07
+2015,Green Express 05111,New Delhi,Delhi,Burger,Quick Service,2023-03-27
+2016,Wok Express 72813,Bengaluru,Karnataka,North Indian,Casual Dining,2023-09-18
+2017,Sweet Corner 59002,Pune,Maharashtra,North Indian,Casual Dining,2023-03-08
+2018,Biryani Kitchen 91540,Kolkata,West Bengal,Burger,Quick Service,2022-12-18
+2019,Green House 48987,Bengaluru,Karnataka,Healthy,Casual Dining,2022-12-23
+2020,Royal Cravings 51905,Mumbai,Maharashtra,Biryani,Quick Service,2022-08-26
+2021,Curry Cravings 31539,Ahmedabad,Gujarat,Biryani,Quick Service,2023-05-01
+2022,Green Zaika 32229,Chennai,Tamil Nadu,Biryani,Casual Dining,2023-06-30
+2023,Madras Cravings 61829,Ranchi,Jharkhand,Biryani,Quick Service,2021-10-25
+2024,Punjabi Cravings 82790,Hyderabad,Telangana,North Indian,Casual Dining,2023-01-02
+2025,Punjabi Bloom 89077,Pune,Maharashtra,Burger,Cafe,2023-05-17
+2026,Little Express 77103,New Delhi,Delhi,North Indian,Casual Dining,2022-06-08
+2027,Bombay Tales 61015,Jaipur,Rajasthan,South Indian,Casual Dining,2022-08-31
+2028,Royal Kitchen 50081,Mumbai,Maharashtra,North Indian,Quick Service,2022-08-01
+2029,Cafe Tales 34026,Chennai,Tamil Nadu,North Indian,Quick Service,2023-06-16
+2030,Royal Bowl 76808,Mumbai,Maharashtra,South Indian,Quick Service,2022-03-22
+2031,Delhi Point 31882,Hyderabad,Telangana,Biryani,Cafe,2023-07-12
+2032,Spice Treats 26860,Chennai,Tamil Nadu,South Indian,Cafe,2021-12-10
+2033,Sweet Express 86798,Mumbai,Maharashtra,North Indian,Quick Service,2022-12-16
+2034,Green Express 58991,Ahmedabad,Gujarat,Healthy,Casual Dining,2022-12-29
+2035,Little Hub 35486,Mumbai,Maharashtra,Fast Food,Casual Dining,2023-01-17
+2036,Wok Junction 86530,Pune,Maharashtra,Pizza,Quick Service,2022-12-17
+2037,Masala Tales 96271,New Delhi,Delhi,North Indian,Casual Dining,2022-05-13
+2038,Cafe Cravings 31866,Mumbai,Maharashtra,Biryani,Casual Dining,2022-10-11
+2039,Masala Express 52189,Mumbai,Maharashtra,Biryani,Fine Dining,2023-09-09
+2040,Biryani Zaika 48406,Bengaluru,Karnataka,Chinese,Cafe,2022-08-10
+2041,Saffron Tales 70194,Bengaluru,Karnataka,North Indian,Casual Dining,2023-05-06
+2042,Delhi House 95108,Pune,Maharashtra,North Indian,Casual Dining,2023-09-26
+2043,Tandoori House 54897,Pune,Maharashtra,Biryani,Fine Dining,2021-12-07
+2044,Bombay Bowl 79840,Pune,Maharashtra,North Indian,Casual Dining,2023-03-26
+2045,Delhi Express 59600,Bengaluru,Karnataka,Biryani,Quick Service,2022-07-15
+2046,Madras Junction 88714,New Delhi,Delhi,North Indian,Casual Dining,2023-07-31
+2047,Spice Bloom 40517,Bengaluru,Karnataka,North Indian,Casual Dining,2023-03-02
+2048,Punjabi Bowl 38585,Chennai,Tamil Nadu,South Indian,Quick Service,2023-01-19
+2049,Dosa Cravings 42299,Ahmedabad,Gujarat,Biryani,Casual Dining,2023-09-03
+2050,Golden Point 99649,New Delhi,Delhi,Biryani,Quick Service,2021-08-08
+2051,Royal Bloom 61182,Pune,Maharashtra,Chinese,Quick Service,2023-03-27
+2052,Golden Kitchen 15341,Bengaluru,Karnataka,Fast Food,Quick Service,2022-07-26
+2053,Cafe Bowl 04185,New Delhi,Delhi,Biryani,Fine Dining,2022-08-11
+2054,Spice Point 51924,Bengaluru,Karnataka,Chinese,Fine Dining,2022-12-11
+2055,Punjabi Darbar 80588,New Delhi,Delhi,Healthy,Quick Service,2022-07-23
+2056,Wok Treats 47978,Pune,Maharashtra,Chinese,Quick Service,2022-08-10
+2057,Delhi Junction 56064,Jaipur,Rajasthan,Burger,Quick Service,2023-10-21
+2058,Cafe Express 79862,New Delhi,Delhi,Fast Food,Quick Service,2022-05-09
+2059,Chai Express 51682,Hyderabad,Telangana,North Indian,Fine Dining,2023-09-21
+2060,Dosa Tales 90870,Chennai,Tamil Nadu,Biryani,Quick Service,2022-12-06
+2061,Delhi Junction 63828,Lucknow,Uttar Pradesh,South Indian,Casual Dining,2023-02-07
+2062,Green Zaika 73140,Hyderabad,Telangana,Desserts,Dessert Shop,2022-11-25
+2063,Punjabi Tales 78167,New Delhi,Delhi,Biryani,Fine Dining,2023-10-29
+2064,Madras Treats 62718,Pune,Maharashtra,North Indian,Casual Dining,2022-04-10
+2065,Chai Corner 05101,New Delhi,Delhi,Chinese,Quick Service,2022-12-21
+2066,Saffron Kitchen 42799,Lucknow,Uttar Pradesh,North Indian,Quick Service,2023-11-08
+2067,Masala House 14234,Mumbai,Maharashtra,Fast Food,Quick Service,2023-12-29
+2068,Madras Treats 51081,Pune,Maharashtra,Chinese,Casual Dining,2022-09-02
+2069,Tandoori Treats 14402,Bengaluru,Karnataka,South Indian,Casual Dining,2022-05-12
+2070,Tandoori Bloom 50978,Mumbai,Maharashtra,Pizza,Quick Service,2022-08-27
+2071,Curry Bistro 34449,Ahmedabad,Gujarat,South Indian,Casual Dining,2022-03-24
+2072,Golden Treats 02134,Hyderabad,Telangana,Chinese,Casual Dining,2022-02-19
+2073,Wok Point 12574,Mumbai,Maharashtra,Fast Food,Quick Service,2021-11-08
+2074,Madras Point 50353,Jaipur,Rajasthan,Pizza,Quick Service,2021-07-31
+2075,Punjabi Corner 07973,Ahmedabad,Gujarat,Pizza,Quick Service,2021-10-27
+2076,Delhi Darbar 85610,New Delhi,Delhi,North Indian,Casual Dining,2022-01-15
+2077,Bombay Zaika 75892,Hyderabad,Telangana,Chinese,Quick Service,2022-12-10
+2078,Bombay Hub 70955,Mumbai,Maharashtra,North Indian,Quick Service,2022-10-05
+2079,Masala Tales 17294,Pune,Maharashtra,Pizza,Quick Service,2022-06-26
+2080,Wok Hub 79590,New Delhi,Delhi,South Indian,Cafe,2023-08-02
+2081,Little Bistro 63505,New Delhi,Delhi,Biryani,Casual Dining,2022-05-02
+2082,Green House 39109,Jaipur,Rajasthan,North Indian,Cafe,2022-07-21
+2083,Delhi Bistro 00141,Jaipur,Rajasthan,Biryani,Quick Service,2022-09-20
+2084,Urban Corner 52943,Kolkata,West Bengal,South Indian,Cafe,2021-12-12
+2085,Bombay Tales 79610,Lucknow,Uttar Pradesh,North Indian,Casual Dining,2022-04-23
+2086,Little Cravings 03444,Chennai,Tamil Nadu,North Indian,Cafe,2021-09-14
+2087,Urban Darbar 05357,Chennai,Tamil Nadu,Pizza,Quick Service,2021-08-06
+2088,Biryani Zaika 38361,Chennai,Tamil Nadu,Fast Food,Quick Service,2021-12-20
+2089,Madras House 51205,Mumbai,Maharashtra,North Indian,Casual Dining,2023-04-08
+2090,Dosa Junction 47493,Mumbai,Maharashtra,North Indian,Casual Dining,2023-07-15
+2091,Masala House 42677,New Delhi,Delhi,Desserts,Dessert Shop,2023-04-07
+2092,Biryani Express 25595,Pune,Maharashtra,South Indian,Fine Dining,2022-03-31
+2093,Dosa Point 06080,New Delhi,Delhi,Chinese,Quick Service,2021-11-15
+2094,Cafe Hub 03220,New Delhi,Delhi,Biryani,Quick Service,2021-10-31
+2095,Bombay Darbar 09971,Hyderabad,Telangana,North Indian,Fine Dining,2022-04-26
+2096,Delhi Zaika 69071,Mumbai,Maharashtra,North Indian,Quick Service,2022-04-29
+2097,Saffron Bistro 78618,New Delhi,Delhi,South Indian,Quick Service,2021-08-28
+2098,Biryani Bowl 43564,Kolkata,West Bengal,North Indian,Quick Service,2022-04-24
+2099,Green Bowl 07834,Ahmedabad,Gujarat,North Indian,Casual Dining,2023-08-28
+2100,Chai Cravings 41625,Bengaluru,Karnataka,South Indian,Quick Service,2022-10-08
+2101,Masala Zaika 98564,Bengaluru,Karnataka,Healthy,Cafe,2023-02-13
+2102,Royal Junction 25073,New Delhi,Delhi,Fast Food,Quick Service,2022-06-07
+2103,Little Hub 49161,Kolkata,West Bengal,Biryani,Fine Dining,2022-06-08
+2104,Dosa Corner 53828,Kolkata,West Bengal,Chinese,Quick Service,2023-04-12
+2105,Urban Kitchen 33060,Bengaluru,Karnataka,Biryani,Quick Service,2023-04-07
+2106,Cafe Junction 43858,Chennai,Tamil Nadu,Biryani,Cafe,2023-10-14
+2107,Spice Bistro 47226,Bengaluru,Karnataka,Chinese,Casual Dining,2023-04-13
+2108,Wok House 47450,Mumbai,Maharashtra,Biryani,Quick Service,2021-12-18
+2109,Delhi Tales 71795,Ranchi,Jharkhand,Chinese,Quick Service,2022-05-22
+2110,Delhi House 58128,Bengaluru,Karnataka,Burger,Quick Service,2021-09-05
+2111,Cafe Express 05434,Bengaluru,Karnataka,Desserts,Dessert Shop,2021-09-20
+2112,Delhi Bowl 00731,Mumbai,Maharashtra,North Indian,Cafe,2021-11-21
+2113,Delhi Corner 41128,Hyderabad,Telangana,Biryani,Quick Service,2023-07-24
+2114,Saffron Junction 90777,Jaipur,Rajasthan,North Indian,Quick Service,2023-03-07
+2115,Golden Corner 03785,Ranchi,Jharkhand,Biryani,Quick Service,2023-11-11
+2116,Tandoori Corner 07201,Bengaluru,Karnataka,North Indian,Quick Service,2023-10-09
+2117,Dosa Kitchen 67957,Bengaluru,Karnataka,North Indian,Casual Dining,2023-06-08
+2118,Royal Treats 45146,Kolkata,West Bengal,Fast Food,Cafe,2023-04-24
+2119,Spice Express 23139,New Delhi,Delhi,Chinese,Casual Dining,2023-12-19
+2120,Little House 20816,Ahmedabad,Gujarat,Burger,Quick Service,2021-12-04
+2121,Curry Cravings 66533,Pune,Maharashtra,North Indian,Casual Dining,2022-09-14
+2122,Little Junction 52425,Bengaluru,Karnataka,North Indian,Quick Service,2022-05-21
+2123,Madras Point 63858,Kolkata,West Bengal,Biryani,Casual Dining,2022-05-23
+2124,Cafe Kitchen 28094,Bengaluru,Karnataka,North Indian,Casual Dining,2021-08-14
+2125,Green Tales 52683,Mumbai,Maharashtra,North Indian,Casual Dining,2023-08-22
+2126,Dosa Tales 86013,Hyderabad,Telangana,Desserts,Dessert Shop,2023-02-27
+2127,Bombay Junction 31726,Mumbai,Maharashtra,North Indian,Fine Dining,2023-03-30
+2128,Saffron Treats 39695,Pune,Maharashtra,North Indian,Casual Dining,2022-08-23
+2129,Little Express 16457,Pune,Maharashtra,Chinese,Quick Service,2022-09-15
+2130,Tandoori Corner 63911,Ranchi,Jharkhand,Chinese,Casual Dining,2022-01-20
+2131,Wok Darbar 03347,Ranchi,Jharkhand,Chinese,Fine Dining,2022-08-15
+2132,Saffron Darbar 24962,Hyderabad,Telangana,Biryani,Fine Dining,2023-06-05
+2133,Saffron Bowl 71333,Bengaluru,Karnataka,Pizza,Quick Service,2022-08-11
+2134,Punjabi Tales 02038,Chennai,Tamil Nadu,North Indian,Casual Dining,2021-08-17
+2135,Punjabi Corner 98908,Lucknow,Uttar Pradesh,Biryani,Quick Service,2022-07-30
+2136,Saffron Darbar 40474,New Delhi,Delhi,South Indian,Quick Service,2022-07-17
+2137,Green Hub 39929,Mumbai,Maharashtra,Pizza,Casual Dining,2023-07-27
+2138,Masala Junction 53694,Mumbai,Maharashtra,Biryani,Cafe,2023-12-25
+2139,Saffron Point 63953,Bengaluru,Karnataka,Chinese,Casual Dining,2023-06-27
+2140,Sweet House 46008,Pune,Maharashtra,North Indian,Casual Dining,2023-12-10
+2141,Madras Corner 88435,New Delhi,Delhi,North Indian,Quick Service,2022-11-20
+2142,Golden Kitchen 96204,Kolkata,West Bengal,North Indian,Casual Dining,2021-10-30
+2143,Biryani Treats 20114,Kolkata,West Bengal,South Indian,Quick Service,2022-11-25
+2144,Masala Zaika 70712,Kolkata,West Bengal,North Indian,Casual Dining,2022-05-31
+2145,Chai House 30160,Mumbai,Maharashtra,South Indian,Casual Dining,2021-11-22
+2146,Cafe Cravings 99566,New Delhi,Delhi,North Indian,Casual Dining,2022-02-14
+2147,Golden Hub 25406,Chennai,Tamil Nadu,Pizza,Quick Service,2022-05-26
+2148,Little Darbar 29576,Kolkata,West Bengal,Pizza,Quick Service,2022-01-26
+2149,Tandoori Junction 71451,Mumbai,Maharashtra,North Indian,Fine Dining,2023-04-24
+2150,Little Bowl 78925,Ahmedabad,Gujarat,North Indian,Quick Service,2022-12-19
+2151,Curry Treats 12945,Bengaluru,Karnataka,North Indian,Quick Service,2023-01-07
+2152,Punjabi Darbar 55599,Ahmedabad,Gujarat,Pizza,Quick Service,2022-01-13
+2153,Dosa Junction 34632,Bengaluru,Karnataka,North Indian,Casual Dining,2022-12-30
+2154,Biryani Junction 61214,Bengaluru,Karnataka,Chinese,Casual Dining,2021-09-10
+2155,Little Treats 55716,Hyderabad,Telangana,Biryani,Casual Dining,2023-07-18
+2156,Saffron Treats 98585,Bengaluru,Karnataka,Fast Food,Quick Service,2023-07-31
+2157,Biryani Zaika 93372,Bengaluru,Karnataka,Chinese,Casual Dining,2022-03-28
+2158,Green Express 65432,Bengaluru,Karnataka,Chinese,Quick Service,2022-02-13
+2159,Golden Corner 67972,Mumbai,Maharashtra,Desserts,Dessert Shop,2022-04-30
+2160,Saffron Point 89890,Chennai,Tamil Nadu,North Indian,Casual Dining,2023-03-30
+2161,Punjabi Junction 18430,Bengaluru,Karnataka,Pizza,Quick Service,2023-12-24
+2162,Spice Cravings 72601,Pune,Maharashtra,North Indian,Casual Dining,2023-03-18
+2163,Chai Tales 77229,Kolkata,West Bengal,Biryani,Quick Service,2022-11-08
+2164,Little Treats 12825,Bengaluru,Karnataka,Pizza,Casual Dining,2022-12-26
+2165,Curry Treats 88141,Bengaluru,Karnataka,South Indian,Quick Service,2021-09-24
+2166,Punjabi Bistro 69971,Ahmedabad,Gujarat,South Indian,Quick Service,2021-11-15
+2167,Sweet Express 34778,Kolkata,West Bengal,North Indian,Quick Service,2022-02-03
+2168,Cafe Darbar 48482,Hyderabad,Telangana,Biryani,Casual Dining,2023-12-13
+2169,Spice Point 49010,Kolkata,West Bengal,Biryani,Quick Service,2023-09-09
+2170,Spice House 91887,Bengaluru,Karnataka,Chinese,Casual Dining,2022-12-07
+2171,Wok Tales 96926,Mumbai,Maharashtra,Biryani,Quick Service,2022-06-21
+2172,Curry Bistro 80701,Chennai,Tamil Nadu,Biryani,Casual Dining,2022-04-29
+2173,Chai Kitchen 65255,New Delhi,Delhi,Biryani,Casual Dining,2023-04-10
+2174,Wok Zaika 10502,Chennai,Tamil Nadu,North Indian,Casual Dining,2023-09-24
+2175,Royal Junction 91489,Mumbai,Maharashtra,Biryani,Casual Dining,2023-03-12
+2176,Dosa Hub 13478,Chennai,Tamil Nadu,North Indian,Casual Dining,2022-01-18
+2177,Saffron Bowl 16763,Mumbai,Maharashtra,Pizza,Quick Service,2021-07-28
+2178,Masala Hub 07054,Mumbai,Maharashtra,Chinese,Casual Dining,2021-09-06
+2179,Urban Bowl 94779,New Delhi,Delhi,North Indian,Cafe,2022-07-17
+2180,Wok Point 49374,New Delhi,Delhi,South Indian,Casual Dining,2023-10-12
+2181,Sweet Bowl 23672,Chennai,Tamil Nadu,Pizza,Quick Service,2021-08-14
+2182,Chai Hub 08169,Bengaluru,Karnataka,North Indian,Quick Service,2023-08-17
+2183,Bombay Darbar 41257,Bengaluru,Karnataka,North Indian,Casual Dining,2023-05-05
+2184,Delhi Tales 72394,Bengaluru,Karnataka,North Indian,Cafe,2021-08-08
+2185,Saffron Bowl 99455,Bengaluru,Karnataka,North Indian,Quick Service,2022-10-05
+2186,Royal Darbar 55280,Kolkata,West Bengal,Fast Food,Quick Service,2023-07-07
+2187,Golden Cravings 60751,Mumbai,Maharashtra,Desserts,Dessert Shop,2022-10-07
+2188,Urban Tales 83604,Ranchi,Jharkhand,North Indian,Casual Dining,2023-10-22
+2189,Punjabi Express 90192,Bengaluru,Karnataka,Fast Food,Quick Service,2023-03-23
+2190,Saffron Treats 28051,Pune,Maharashtra,North Indian,Casual Dining,2021-08-28
+2191,Sweet Zaika 99189,Mumbai,Maharashtra,Chinese,Quick Service,2023-04-08
+2192,Punjabi Corner 51961,Mumbai,Maharashtra,Fast Food,Quick Service,2021-10-20
+2193,Chai Bistro 93020,Ahmedabad,Gujarat,Biryani,Quick Service,2022-08-31
+2194,Spice Express 11836,Lucknow,Uttar Pradesh,North Indian,Fine Dining,2022-05-21
+2195,Tandoori Express 09832,Ahmedabad,Gujarat,Chinese,Fine Dining,2022-04-09
+2196,Biryani Express 88471,Bengaluru,Karnataka,Desserts,Dessert Shop,2022-08-23
+2197,Green House 67288,New Delhi,Delhi,North Indian,Quick Service,2023-12-02
+2198,Saffron House 17582,Pune,Maharashtra,North Indian,Quick Service,2021-09-26
+2199,Cafe Hub 89501,New Delhi,Delhi,North Indian,Quick Service,2022-10-31
+2200,Royal Kitchen 10325,Chennai,Tamil Nadu,Chinese,Casual Dining,2022-05-22

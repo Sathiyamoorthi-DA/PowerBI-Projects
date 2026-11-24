@@ -1,0 +1,18 @@
+CityID,City,State,Zone,Lat,Lon
+1,Delhi,Delhi,North,28.6,77.2
+2,Noida,Uttar Pradesh,North,28.5,77.4
+3,Gurgaon,Haryana,North,28.4,77
+4,Faridabad,Haryana,North,28.4,77.3
+5,Ghaziabad,Uttar Pradesh,North,28.7,77.4
+6,Mumbai,Maharashtra,West,19.1,72.9
+7,Pune,Maharashtra,West,18.5,73.9
+8,Ahmedabad,Gujarat,West,23,72.6
+9,Kolkata,West Bengal,East,22.6,88.4
+10,Patna,Bihar,East,25.6,85.1
+11,Bhubaneswar,Odisha,East,20.3,85.8
+12,Bengaluru,Karnataka,South,12.97,77.6
+13,Chennai,Tamil Nadu,South,13.1,80.3
+14,Hyderabad,Telangana,South,17.4,78.5
+15,Bhopal,Madhya Pradesh,Central,23.3,77.4
+16,Indore,Madhya Pradesh,Central,22.72,75.86
+17,Raipur,Chhattisgarh,Central,21.25,81.63
