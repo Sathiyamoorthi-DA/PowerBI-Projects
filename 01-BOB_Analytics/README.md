@@ -1,3 +1,5 @@
+<div align="center">
+   
 # 🏦 Bank of Baroda — Executive Banking & Financial Performance Dashboard
 
 ### Power BI Dashboard | Banking & Financial Analytics
@@ -10,6 +12,7 @@
 [![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-in/microsoft-365/excel)
 [![Banking Analytics](https://img.shields.io/badge/Banking-Financial%20Analytics-003B71?style=for-the-badge)]()
 
+</div>
 ---
 
 ## 📊 Project Overview
