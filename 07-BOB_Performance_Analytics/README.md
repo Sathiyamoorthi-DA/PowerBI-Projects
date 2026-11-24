@@ -184,6 +184,7 @@ Aspiring Data Analyst | Power BI Developer
 ---
 
 ⭐ **If you find this project useful, consider giving this repository a star!**
+
 ## 📂 Repository Structure
 
 ```text
