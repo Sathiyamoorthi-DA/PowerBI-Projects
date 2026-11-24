@@ -32,7 +32,7 @@ The solution brings application volume, funded exposure, portfolio health, and b
 
 ### 01. Loan Portfolio Analysis (Executive & Risk View):
 
-The Loan Portfolio Analysis dashboard provides management with an overall view of lending performance and credit risk through interactive KPI cards, multi-year application and funding trends, loan purpose and status breakdowns, employment approval rates, credit grade exposure, and key business insights.
+The Loan Portfolio Analysis dashboard provides management with an overall view of lending performance and credit risk through interactive KPI cards, Multi-year application and funding trends, loan purpose and status breakdowns, employment approval rates, credit grade exposure, and key business insights.
 
 <img src="Screenshots/Sbi_Loan_analysis_dashboard.png" alt="SBI Loan Portfolio Analysis Dashboard" width="100%">
 
