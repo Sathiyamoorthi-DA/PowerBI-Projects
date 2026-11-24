@@ -34,7 +34,7 @@ The solution brings executive KPIs, shipment logs, fleet and route analytics, SL
 
 The Overview page provides management with an overall view of logistics operations through interactive KPI cards, monthly shipment and on-time delivery trends, transport mode splits, regional mapping, product volume, fleet status, delivery status by region, and recent shipment tracking[cite: 12].
 
-<img src="/Screenshots/01_overview.png" alt="Logistics Analysis Overview Page" width="100%">
+<img src="Screenshots/01_overview.png" alt="Logistics Analysis Overview Page" width="100%">
 
 <br>
 
