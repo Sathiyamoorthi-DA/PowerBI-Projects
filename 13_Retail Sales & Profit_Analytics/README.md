@@ -30,6 +30,25 @@ The dashboard is designed to answer key retail business questions:
 - What are the key product-level performance metrics?
 
 ---
+## 📷 Dashboard Preview
+
+### Retail Sales & Profit Analytics
+
+<img src="Screenshots/Retail%20sales%20and%20profit%20Analysis%20(2).png" alt="Revivea Sales Analytics Executive Overview" width="100%">
+
+<br>
+
+### Customer & Regional Analysis
+
+<img src="Screenshots/customer%20%26%20Region.png" alt="Revivea Sales Analytics Executive Overview" width="100%">
+
+<br>
+
+### Product Performance Analysis
+
+<img src="Screenshots/Retail%20sales%20and%20profit%20Analysis%20(3).png" alt="Revivea Sales Analytics Executive Overview" width="100%">
+
+<br>
 
 ## 📌 Dashboard Pages
 
@@ -205,24 +224,6 @@ This dashboard provides a centralized view of retail sales and profitability per
 - Monitor sub-category profitability
 - Understand the relationship between discounts and profit
 - Support data-driven retail business decisions
-
----
-
-## 📷 Dashboard Preview
-
-### Retail Sales & Profit Analytics
-
-[Add Retail Sales & Profit Screenshot Here]
-
-### Customer & Regional Analysis
-
-[Add Customer & Regional Screenshot Here]
-
-### Product Performance Analysis
-
-[Add Product Performance Screenshot Here]
-
----
 
 ## 👨‍💻 Project Author
 
