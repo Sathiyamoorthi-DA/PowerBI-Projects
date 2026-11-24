@@ -1,248 +1,124 @@
-\# Mobile Sales Analytics Dashboard | Power BI
+<div align="center">
 
+# 📱 Mobile Sales Analytics — Business & Customer Intelligence
+### Power BI Dashboard | Consumer Electronics & Retail
 
+**Executive Overview · Product & Brand Analysis · Customer & Regional Intelligence · Drill-Through Details**
 
-An interactive multi-page Power BI dashboard designed to monitor and analyze mobile phone retail sales, customer demographics, channel performance, state-level distribution, brand market share, and specific product model deep-dives.
+📅 Reporting Period: **Jan 2024 – Dec 2025**
 
+[![View Live Dashboard](https://img.shields.io/badge/🔴%20LIVE-View%20Interactive%20Dashboard-0078D4?style=for-the-badge)](YOUR_POWER_BI_PUBLIC_LINK_HERE)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
+</div>
 
-\*\*Created by:\*\* Sathiyamoorthi S  
+---
 
-\*\*Tool:\*\* Microsoft Power BI  
+## 🔗 Live Dashboard
 
-\*\*Reporting Period:\*\* Multi-Year Mobile Retail Data  
+👉 **[Click here to open the interactive Power BI dashboard](YOUR_POWER_BI_PUBLIC_LINK_HERE)**
 
-\*\*Domain:\*\* Sales Analytics | Product \& Brand Intelligence | Customer \& Regional Analytics
+> Tip: The live dashboard is fully interactive — use the **Year / Region / Channel / Brand / Model** slicers or right-click any product to drill through into granular transaction details.
 
+---
 
+## 📖 About the Project
 
-\## Dashboard Preview
+This project is an **End-to-End sales, product, and customer analytics dashboard** built for **Mobile Sales Analytics**, covering multi-year retail performance across India.
 
+The dashboard consolidates transactional sales, product catalog, regional distribution, and customer demographic data into **4 interactive pages** (including a custom drill-through view) that give leadership a single source of truth for tracking revenue growth, brand performance, channel efficiency, and customer satisfaction.
 
+**Business questions this dashboard answers:**
+- How are total revenue, units sold, and average selling price trending month over month and year over year?
+- Which smartphone brands and models generate the highest revenue vs. highest unit volume?
+- Which sales channels (Marketplace, Online, Dealer, Retail Store) and states drive the strongest sales?
+- What is our customer demographic profile (age, gender), payment preference, and rating distribution?
 
-\[!\[Mobile Sales Analytics Dashboard](Screenshots/mobile-sales-analytics-overview.png)](https://github.com/Sathiyamoorthi-DA/Mobile-Sales-Analytics-Dashboard-Power-BI/blob/main/Screenshots/Mobile\_sales\_analysis\_overview.png)
+---
 
+## 🖼️ Dashboard Preview
 
+### 1️⃣ Mobile Sales Analytics (Overview)
+High-level KPIs — Total Revenue (444.8M), Units Sold (8,598), Total Customers (1,686), and Avg Selling Price (51.74K) — paired with monthly revenue trends, top brands by revenue/units, channel split, state/city rankings, and automated key insights.
 
-\[!\[Mobile Sales Analytics Dashboard](Screenshots/mobile-sales-analytics-overview.png)](https://github.com/Sathiyamoorthi-DA/Mobile-Sales-Analytics-Dashboard-Power-BI/blob/main/Screenshots/Mobile\_sales\_Product%26Brand%20Dashbaord.png)
+<img src="assets/screenshots/01_mobile_sales_overview.png" alt="Mobile Sales Overview Page" width="100%">
 
+<br>
 
+### 2️⃣ Product & Brand Analysis
+Brand and model-level performance — Brand Revenue vs. Units Sold combo chart, Top Models by Units Sold, Revenue Contribution by Brand, Average Selling Price by Brand, and a full Product Analysis matrix with customer ratings.
 
-\[!\[Mobile Sales Analytics Dashboard](Screenshots/mobile-sales-analytics-overview.png)](https://github.com/Sathiyamoorthi-DA/Mobile-Sales-Analytics-Dashboard-Power-BI/blob/main/Screenshots/Customer\_anlaysis.png)
+<img src="assets/screenshots/02_product_brand_analysis.png" alt="Product & Brand Analysis Page" width="100%">
 
+<br>
 
+### 3️⃣ Customer & Regional Intelligence
+Demographic and geographic breakdown — Customers by Age Group, Customer Gender Distribution, Transactions by Customer Rating, Revenue by Sales Channel, Revenue by State, Revenue by Payment Method, and a Regional Performance Matrix.
 
-\[!\[Mobile Sales Analytics Dashboard](Screenshots/mobile-sales-analytics-overview.png)](https://github.com/Sathiyamoorthi-DA/Mobile-Sales-Analytics-Dashboard-Power-BI/blob/main/Screenshots/Mobile\_sales\_ProductPerformance\_Dashboard.png)
+<img src="assets/screenshots/03_customer_regional_intelligence.png" alt="Customer & Regional Intelligence Page" width="100%">
 
+<br>
 
+### 4️⃣ Product Performance Details (Drill-Through Page)
+Granular model-level deep dive (e.g., Apple iPhone 15) — displaying selected brand/model KPIs, monthly revenue trajectory, units sold by sales channel, state-wise revenue, and a transaction-level detailed table.
 
-\## Business Objective
+<img src="assets/screenshots/04_product_performance_details.png" alt="Product Performance Details Page" width="100%">
 
+---
 
+## 📊 Key Metrics Tracked
 
-The objective of this project is to build an enterprise-level sales and product analytics solution that gives executive stakeholders full visibility into overall revenue performance, brand market share, customer demographics, regional geographic demand, sales channel efficiency, and detailed model-level granular metrics.
+| Metric | Value | YoY Growth |
+|---|---|---|
+| Total Revenue | ₹444.8M | ▲ +56.7% vs LY |
+| Units Sold | 8,598 | ▲ +56.6% vs LY |
+| Total Customers | 1,686 | ▲ +13.2% vs LY |
+| Avg Selling Price (ASP) | ₹51.74K | — |
+| Avg Customer Rating | 4.2 / 5.0 | — |
+| Return Rate | 6.2% | — |
+| Top Revenue Brand | Apple (₹86.2M) | — |
+| Top Revenue State | Gujarat (₹58.2M) | — |
 
+---
 
+## 🗂️ Repository Structure
 
-\## Key Performance Indicators
+mobile-sales-analytics/
+│
+├── README.md                                          # Project documentation (this file)
+│
+├── assets/
+│   └── screenshots/                                   # Dashboard page exports (PNG/JPG)
+│       ├── 01_mobile_sales_overview.png
+│       ├── 02_product_brand_analysis.png
+│       ├── 03_customer_regional_intelligence.png
+│       └── 04_product_performance_details.png
+│
+├── dataset/
+│   └── Mobile_Sales_Dataset.xlsx                      # Source data
+│
+└── dashboard/
+└── Mobile_Sales_Analytics.pbix                    # Power BI report file
 
+## 🛠️ Tools & Tech Stack
 
+- **Power BI Desktop / Power BI Service** — Data modeling, DAX calculations, drill-through navigation & interactive visualization
+- **Power Query** — Data cleaning, transformation & shaping
+- **Microsoft Excel** — Source dataset storage
 
-\### Overall Portfolio Metrics
+---
 
-\- \*\*Total Revenue:\*\* ₹444.8M \*(▲ +56.7% vs. Last Year)\*
+## 🚀 How to Explore
 
-\- \*\*Units Sold:\*\* 8,598 \*(▲ +56.6% vs. Last Year)\*
+1. **Fastest way:** Click the [live dashboard link](YOUR_POWER_BI_PUBLIC_LINK_HERE) above and interact with the filters and drill-through pages directly in your browser.
+2. **To review the data:** Open the Excel file inside the `dataset/` folder.
+3. **To inspect the data model & DAX:** Download and open the `.pbix` file in Power BI Desktop.
 
-\- \*\*Total Customers:\*\* 1,686 \*(▲ +13.2% vs. Last Year)\*
+---
 
-\- \*\*Total Transactions:\*\* 5,000
+## 👤 Author
+**Sathiyamoorthi S**  
+LinkedIn:
 
-\- \*\*Average Selling Price (ASP):\*\* ₹51.74K \*(▲ 0.0% vs. Last Year)\*
-
-\- \*\*Average Customer Rating:\*\* 4.2 / 5.0
-
-\- \*\*Return Rate:\*\* 6.2%
-
-
-
-\### Single Product Deep-Dive (e.g., Apple iPhone 15)
-
-\- \*\*Total Revenue:\*\* ₹13.6M
-
-\- \*\*Total Units Sold:\*\* 209
-
-\- \*\*Average Selling Price (ASP):\*\* ₹64.89K
-
-\- \*\*Average Customer Rating:\*\* 4.2 / 5.0
-
-
-
-\*Note: These values are captured directly from the report screenshots and should be validated against the underlying dataset.\*
-
-
-
-\## Dashboard Pages \& Features
-
-
-
-\### 1. Executive Sales Overview
-
-\- \*\*Revenue \& Unit Trends:\*\* Tracks monthly sales trajectories and growth variations across the calendar year.
-
-\- \*\*Brand Market Share:\*\* Revenue breakdown across top smartphone manufacturers led by Apple (₹86M), Google (₹69M), Samsung (₹68M), Vivo (₹38M), and Oppo (₹38M).
-
-\- \*\*Sales Channel Analysis:\*\* Revenue distribution across Marketplace (26%), Retail Stores (25%), Dealers (25%), and Online (24%).
-
-\- \*\*Geographic \& Top State Ranking:\*\* Regional heat maps and top state performance led by Gujarat (₹58.2M, 1,098 units), Maharashtra (₹52.5M, 1,010 units), and Tamil Nadu (₹29.8M, 598 units).
-
-\- \*\*Top Cities by Revenue:\*\* Detailed table of city-level sales including Ahmedabad (₹30.3M), Chennai (₹29.8M), Kolkata (₹29.6M), and Chandigarh (₹29.4M).
-
-
-
-\### 2. Product \& Brand Analysis
-
-\- \*\*Brand Revenue vs. Volume:\*\* Multi-metric comparison mapping total units sold against total revenue generated per brand.
-
-\- \*\*Top Models by Volume:\*\* Identifies top-selling smartphone models like Oppo F-Series (331 units), Pixel 9 (323 units), Moto G-Series (314 units), and Vivo X100 (306 units).
-
-\- \*\*Average Selling Price (ASP) Comparison:\*\* Evaluates brand positioning ranging from premium brands like Apple (₹97K ASP) and Google (₹77K ASP) down to budget/mid-range brands like Realme (₹30K ASP).
-
-\- \*\*Brand Revenue Contribution:\*\* Donut chart breakdown showing market share (Apple 29%, Google 23%, Samsung 23%, Vivo 13%, Oppo 13%).
-
-
-
-\### 3. Customer \& Regional Intelligence
-
-\- \*\*Demographics \& Age Groups:\*\* Analyzes buyer distribution showing dominant adoption among 18–24 year olds (45.14%) and 25–34 year olds (26.33%).
-
-\- \*\*Gender Share:\*\* Customer split across Female (64%), Male (26%), and Other (10%).
-
-\- \*\*Ratings \& Transactions:\*\* Transaction distribution mapped against customer rating scores.
-
-\- \*\*Payment Method Preference:\*\* Sales distribution across UPI (21%), Cash (20%), Credit Card (20%), EMI (20%), and Debit Card (19%).
-
-\- \*\*Regional Matrix Table:\*\* Summary metrics across East, North, South, and West sales zones.
-
-
-
-\### 4. Product Performance Details (Model Drill-Down)
-
-\- \*\*Granular Filter View:\*\* Filter down to specific brands and models (e.g., Apple iPhone 15).
-
-\- \*\*Channel Unit Breakdown:\*\* Highlights units sold via Online (56), Marketplace (55), Retail Store (52), and Dealer (46).
-
-\- \*\*State-Level Revenue for Selected Model:\*\* Top revenue states for the specific model led by West Bengal (₹1.6M) and Maharashtra (₹1.6M).
-
-\- \*\*Transaction Log Table:\*\* Detailed line-item breakdown showing sale dates, city, channel, payment method, quantity, revenue, and individual ratings.
-
-
-
-\## Business Questions Addressed
-
-
-
-\- Which mobile brands generate the highest revenue and unit sales?
-
-\- How is revenue distributed across online, marketplace, retail, and dealer channels?
-
-\- What are the top-performing states and cities driving total sales volume?
-
-\- Which demographic age groups and customer genders constitute the primary target market?
-
-\- How do payment preferences (UPI, Credit Card, EMI, Cash) compare among buyers?
-
-\- How does a specific smartphone model perform across individual channels and states?
-
-
-
-\## Tools and Skills
-
-
-
-\- Microsoft Power BI
-
-\- Data Analysis Expressions (DAX)
-
-\- Data Modeling \& Star Schema Architecture
-
-\- Multi-Page Navigation \& Executive UI Design
-
-\- Dynamic Slicers \& Page Interactions
-
-\- Regional \& Demographic Segmentation
-
-\- Drill-Through \& Detailed Data Tables
-
-
-
-\## How to Explore the Dashboard
-
-
-
-Download the Power BI report file (.pbix) from the repository.
-
-
-
-Open the file in Microsoft Power BI Desktop.
-
-
-
-Update data source connection paths if required.
-
-
-
-Click Refresh to load the data model.
-
-
-
-Navigate through the left sidebar icons (Home, Sales, Customer) or use the top drop-down slicers (Year, Region, Channel, Brand, Model) to filter insights.
-
-
-
-\## Author
-
-Sathiyamoorthi S
-
-
-
-Portfolio Project: Mobile Sales Analytics Dashboard
-
-
-
-Focus: Retail Analytics | Power BI | Business Intelligence | Customer Insights
-
-
-
-\## Project Structure
-
-
-
-```text
-
-Mobile-Sales-Analytics-PowerBI/
-
-├── README.md
-
-├── Screenshots/
-
-│   ├── mobile-sales-analytics-overview.png
-
-│   ├── product-and-brand-analysis.png
-
-│   ├── customer-and-regional-intelligence.png
-
-│   └── product-performance-details.png
-
-├── data/
-
-│   └── mobile\_sales\_dataset.csv
-
-├── powerbi/
-
-│   └── Mobile\_Sales\_Analytics.pbix
-
-└── DAX\_Measures.md
-
-
-
+Built as a portfolio project showcasing end-to-end BI dashboard design — from raw data modeling to an executive-ready, multi-page Power BI report.
