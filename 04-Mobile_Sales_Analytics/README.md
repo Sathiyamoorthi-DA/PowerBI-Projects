@@ -34,7 +34,7 @@ The solution brings executive, product, customer, and transaction-level reportin
 
 The Executive Overview provides management with an overall view of retail sales performance through interactive KPI cards, monthly revenue trends, brand and channel comparisons, regional rankings, and automated business insights.
 
-<img src="assets/screenshots/01_mobile_sales_overview.png" alt="Mobile Sales Overview Page" width="100%">
+<img src="Screenshots/Mobile_sales_analysis_overview.png" alt="Mobile Sales Overview Page" width="100%">
 
 <br>
 
@@ -42,7 +42,7 @@ The Executive Overview provides management with an overall view of retail sales 
 
 The Product & Brand Analysis view provides management with a detailed breakdown of brand and model performance through revenue-vs-volume comparisons, average selling price benchmarks, brand revenue share, and a product performance matrix.
 
-<img src="assets/screenshots/02_product_brand_analysis.png" alt="Product & Brand Analysis Page" width="100%">
+<img src="Screenshots/Mobile_sales_Product%26Brand%20Dashbaord.png" alt="Product & Brand Analysis Page" width="100%">
 
 <br>
 
@@ -50,7 +50,7 @@ The Product & Brand Analysis view provides management with a detailed breakdown 
 
 The Customer & Regional Intelligence view provides management with a clear picture of customer demographics and geographic performance through age and gender distributions, rating breakdowns, payment method preferences, and state-level revenue matrices.
 
-<img src="assets/screenshots/03_customer_regional_intelligence.png" alt="Customer & Regional Intelligence Page" width="100%">
+<img src="Screenshots/Customer_anlaysis.png" alt="Customer & Regional Intelligence Page" width="100%">
 
 <br>
 
@@ -58,7 +58,7 @@ The Customer & Regional Intelligence view provides management with a clear pictu
 
 The Product Performance Details view provides management with a granular, model-level deep dive through custom drill-through navigation, displaying selected brand/model KPIs, monthly sales trajectories, channel splits, and transaction-level records.
 
-<img src="assets/screenshots/04_product_performance_details.png" alt="Product Performance Details Page" width="100%">
+<img src="Screenshots/Mobile_sales_ProductPerformance_Dashboard.png" alt="Product Performance Details Page" width="100%">
 
 <br>
 
