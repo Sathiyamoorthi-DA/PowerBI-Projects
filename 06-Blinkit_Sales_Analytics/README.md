@@ -1,504 +1,206 @@
-\# 🛒 Blinkit — Grocery Sales \& Business Performance Analytics Dashboard
+<div align="center">
+    
+# 🛒 Blinkit — Grocery Performance & Quick-Commerce Analytics
 
+### Power BI Dashboard | Quick-Commerce & Delivery Operations Reporting
 
+**Executive Overview · Sales & Revenue · Delivery & Fulfillment · Return & Cancellation Analysis**
 
-\### Power BI Dashboard | Quick Commerce \& Retail Analytics
+📅 **Reporting Period:** Multi-Day / Intraday Quick-Commerce Operations
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Quick Commerce](https://img.shields.io/badge/Quick-Commerce-F8CB46?style=for-the-badge)
+![Operations & Logistics](https://img.shields.io/badge/Operations-%26%20Logistics-2E7D32?style=for-the-badge)
 
+</div>
 
-\*\*Executive Overview · Sales \& Revenue · Product Performance · Delivery Operations · Customer Analytics · Regional Analysis\*\*
 
+## 📌 Project Overview
 
+This project presents an interactive **Grocery Performance Dashboard** developed for Blinkit using Microsoft Power BI to evaluate quick-commerce revenue, order velocity, delivery SLA efficiency, and return/cancellation behavior.
 
-\---
+The dashboard provides a consolidated view of total revenue, order volume, active customers, average order value (AOV), average delivery time, regional demand, product category share, and fulfillment SLA performance.
 
+It is designed to simulate a real-world quick-commerce operational reporting environment, helping business and logistics teams monitor hourly demand spikes, optimize delivery timelines, and minimize order cancellations or returns.
 
+The solution brings executive KPIs, intraday order trends, geographic performance, and last-mile delivery metrics into a centralized interactive analytics system.
 
-\## 📊 Project Overview
+---
 
+## 🖼️ Dashboard Preview
 
+### 01. Executive Overview (Grocery Performance Dashboard):
 
-An interactive Power BI dashboard developed to analyze the business performance of Blinkit, a quick-commerce grocery delivery platform.
+The Executive Overview provides management with an overall view of quick-commerce performance through interactive KPI cards, intraday revenue and order trends, zone and city sales breakdowns, category contribution, top-performing SKUs, delivery SLA tracking, return/cancellation metrics, and automated business insights.
 
+<img src="Screenshots/blinkit1.png" alt="Blinkit Grocery Performance Dashboard" width="100%">
 
+<br>
 
-The dashboard provides a consolidated view of sales performance, customer activity, product category contribution, delivery efficiency, and regional business performance.
 
+## 📊 Key Quick-Commerce Performance Indicators
 
+The dashboard tracks the following operational and sales KPIs:
 
-The objective is to transform raw business data into meaningful insights that help management monitor key performance indicators, identify growth opportunities, understand customer purchasing patterns, and improve operational efficiency.
+| Performance KPI | Dashboard Value |
+|---|---:|
+| Total Revenue | ₹40.9M |
+| Total Orders | 86K |
+| Total Customers | 46K |
+| Average Order Value (AOV) | ₹477 |
+| Average Delivery Time | 5.5 Min |
+| On-Time Delivery Rate | 94.4% |
+| Return Rate | 2.7% |
+| Cancellation Rate | 1.3% |
 
+*Monetary figures are reported in INR Millions (M) and INR (₹) as displayed on the dashboard[cite: 10].*
 
+---
 
-\---
+## 📈 Dashboard Features & Business Analysis
 
+### 1️⃣ Revenue, Orders & Intraday Demand Trends
 
+Provides a granular view of sales performance and hourly shopping patterns across the day[cite: 10].
 
-\## 🖼️ Dashboard Preview
+**Key Analysis:**
+- Total Revenue (₹40.9M, +2.1% vs. previous day), Total Orders (86K, +2.1%), and Total Customers (46K, +1.0%).
+- Intraday Revenue & Orders combo trend tracking demand from 12:00 AM through late evening.
+- Peak order time identification showing highest order concentration between 6 PM – 9 PM (19.2K orders), followed by 12 PM – 3 PM (18.8K orders).
+- Top 5 products by revenue with product images and revenue share (Amul Butter 500g, Tata Tea 250g, Apple Shimla 4pc, Aashirvaad Atta 5kg, and Bananas 1kg)[cite: 10].
 
+### 2️⃣ Regional & Category Performance
 
+Analyzes geographic demand distribution and product category contribution across zones and cities[cite: 10].
 
-!\[Blinkit Grocery Performance Dashboard](assets/Blinkit\_Grocery\_Dashboard.png)
+**Key Analysis:**
+- Zone-wise revenue breakdown across North (₹24.06M / 59%), West (₹6.34M / 15%), South (₹5.08M / 12%), East (₹3.01M / 7%), and Central (₹2.41M / 6%).
+- Top 5 cities by revenue led by Delhi (₹7.1M / 17.3%), Noida (₹5.4M / 13.1%), Gurgaon (₹4.5M / 11.0%), Faridabad (₹3.9M / 9.5%), and Ghaziabad (₹3.2M / 7.9%).
+- Revenue share across 7 product categories led by Dairy & Bakery (₹9.09M / 22%), Household Essentials (₹8.46M / 21%), and Fruits & Vegetables (₹7.82M / 19%)[cite: 10].
 
+### 3️⃣ Delivery Fulfillment, Returns & Cancellations
 
+Monitors last-mile delivery speed, SLA compliance, and post-order friction points[cite: 10].
 
-\---
+**Key Analysis:**
+- Delivery fulfillment breakdown showing 94.4% On-Time Deliveries (78,669 orders), 4.3% Late Deliveries (3,557 orders), and 1.3% Cancelled Orders (1,115 orders).
+- Average delivery speed benchmark of 5.5 minutes, highlighting West as the fastest zone at 5.5 minutes.
+- Order completion funnel tracking Delivered (82,226 / 96.0%), Returned (2,352 / 2.7%), and Cancelled (1,115 / 1.3%) orders.
+- Category-level return rate comparison across Others (3.3%), Meat & Seafood (2.9%), Fruits & Vegetables (2.8%), Snacks & Beverages (2.8%), and Dairy & Bakery (2.7%)[cite: 10].
 
+---
 
+## 💡 Key Business Insights
 
-\## 📈 Key Performance Indicators
+Based on the Blinkit Grocery Performance dashboard[cite: 10]:
 
-
-
-The executive dashboard tracks five major business KPIs:
-
-
-
-| KPI | Dashboard Value | Business Significance |
-
-|---|---:|---|
-
-| Total Revenue | ₹40.9M | Measures overall business revenue |
-
-| Total Orders | 86K | Tracks order volume and demand |
-
-| Total Customers | 46K | Measures customer base |
-
-| Average Order Value | ₹477 | Evaluates average customer spending |
-
-| Average Delivery Time | 5.5 Min | Monitors delivery efficiency |
-
-
-
-\*Values are based on the dashboard screenshot and selected filters.\*
-
-
-
-\---
-
-
-
-\## 🔍 Dashboard Features \& Business Analysis
-
-
-
-\### 1️⃣ Executive Overview
-
-
-
-Provides a consolidated view of overall business performance.
-
-
-
-\- Total Revenue and Order Volume
-
-\- Customer Growth
-
-\- Average Order Value
-
-\- Average Delivery Time
-
-\- Revenue and Order Trends
-
-\- Key Business Insights
-
-
-
-\*\*Business Value:\*\* Helps management quickly understand business performance and identify important operational and sales trends.
-
-
-
-\### 2️⃣ Sales \& Revenue Analysis
-
-
-
-Analyzes revenue performance across different time periods and geographical zones.
-
-
-
-\- Revenue and Orders Trend
-
-\- Zone-wise Revenue Contribution
-
-\- Revenue by Product Category
-
-\- Top 5 Products by Revenue
-
-\- Product Revenue Share
-
-
-
-\*\*Business Value:\*\* Helps identify high-performing products, profitable categories, and geographical areas contributing the most revenue.
-
-
-
-\### 3️⃣ Product Performance Analysis
-
-
-
-Evaluates product-level sales performance and category contribution.
-
-
-
-\- Top 5 Products by Revenue
-
-\- Product-wise Revenue Contribution
-
-\- Category-wise Sales Distribution
-
-\- Product Share Analysis
-
-
-
-\*\*Business Value:\*\* Helps identify best-selling products and understand customer purchasing preferences, supporting better product assortment and merchandising decisions.
-
-
-
-\### 4️⃣ Peak Order Time Analysis
-
-
-
-Analyzes order demand throughout the day.
-
-
-
-\- Hour-wise Order Distribution
-
-\- Peak Ordering Hours
-
-\- Order Volume Comparison
-
-\- Identification of High-Demand Periods
-
-
-
-\*\*Key Insight:\*\* The highest order activity occurs between 6 PM and 9 PM.
-
-
-
-\*\*Business Value:\*\* Helps operations teams plan delivery capacity, staffing, and inventory availability during peak demand periods.
-
-
-
-\### 5️⃣ Delivery \& Fulfillment Analysis
-
-
-
-Monitors delivery performance and operational efficiency.
-
-
-
-\- On-Time Deliveries: 78,669
-
-\- Late Deliveries: 3,557
-
-\- Cancelled Orders: 1,115
-
-\- On-Time Delivery Rate: 94.4%
-
-\- Average Delivery Time: 5.5 Minutes
-
-\- Fastest Performing Zone: West
-
-
-
-\*\*Business Value:\*\* Helps identify delivery delays, monitor fulfillment efficiency, and evaluate regional delivery performance.
-
-
-
-\### 6️⃣ Return \& Cancellation Analysis
-
-
-
-Tracks order returns, cancellations, and successful deliveries.
-
-
-
-\- Returned Orders: 2,352
-
-\- Return Rate: 2.7%
-
-\- Cancelled Orders: 1,115
-
-\- Cancellation Rate: 1.3%
-
-\- Delivered Orders: 82,226
-
-
-
-\*\*Business Value:\*\* Helps monitor order completion, understand return patterns, and identify opportunities to improve customer experience and fulfillment quality.
-
-
-
-\### 7️⃣ Category-wise Return Analysis
-
-
-
-Compares return rates across product categories.
-
-
-
-\- Others
-
-\- Meat \& Seafood
-
-\- Fruits \& Vegetables
-
-\- Snacks \& Beverages
-
-\- Dairy \& Bakery
-
-
-
-\*\*Business Value:\*\* Helps identify product categories with relatively higher return rates and prioritize further investigation.
-
-
-
-\### 8️⃣ Regional \& City Performance
-
-
-
-Evaluates geographical business performance.
-
-
-
-\- Zone-wise Revenue Analysis
-
-\- City-wise Revenue Contribution
-
-\- Top 5 Cities by Revenue
-
-\- Regional Sales Distribution
-
-
-
-\*\*Business Value:\*\* Helps identify high-performing markets and geographical growth opportunities.
-
-
-
-\---
-
-
-
-\## 💡 Key Business Insights
-
-
-
-Based on the dashboard:
-
-
-
-| Business Area | Key Insight |
-
+| Area | Business Insight |
 |---|---|
+| Daily Growth | Total revenue increased by 2.1% compared to the previous day, reaching ₹40.9M across 86K orders. |
+| Top Category | Dairy & Bakery is the highest revenue-generating category at ₹9.09M (22.2% share), followed closely by Household Essentials (21%). |
+| Peak Shopping Window | Peak order volume occurs during the evening slot between 6 PM – 9 PM (19.2K orders). |
+| Regional Dominance | The North zone contributes 58.8% (₹24.06M) of total revenue, driven strongly by NCR cities (Delhi, Noida, Gurgaon, Faridabad, Ghaziabad). |
+| Top SKU | Amul Butter (500g) leads product revenue at ₹38.31L (25% share among top 5 SKUs), followed by Tata Tea (250g) at ₹33.40L. |
+| Delivery Efficiency | 94.4% of orders are delivered on time with an overall average delivery time of 5.5 minutes. |
+| Return Friction | Overall return rate is 2.7%, with higher return rates concentrated in Others (3.3%) and perishable categories like Meat & Seafood (2.9%)[cite: 10]. |
 
-| Revenue Growth | Revenue increased by 2.1% compared to the previous day |
+---
 
-| Category Performance | Dairy \& Bakery is the leading category with 22.2% contribution |
+## 📊 Visualizations Used
 
-| Peak Demand | Highest order activity occurs between 6 PM and 9 PM |
+The dashboard incorporates the following Power BI visuals[cite: 10]:
 
-| Regional Performance | North zone contributes approximately 58.8% of total revenue |
+- KPI Cards — Revenue, orders, customers, AOV, and average delivery time monitoring.
+- Combo Chart — Intraday Revenue & Orders trend across time slots.
+- Filled Map — Zone-wise geographic revenue distribution across India.
+- Doughnut & Ring Charts — Category revenue share, on-time delivery SLA, and return/cancellation rates.
+- Column & Horizontal Bar Charts — Peak order time slots, category return rates, and Top 5 cities by revenue.
+- Custom Table with Product Images — Top 5 products by revenue with thumbnails and share percentages.
+- Key Insights Panel — Automated executive summary callouts.
+- Interactive Slicers — Date, Zone, City, and Category filters[cite: 10].
 
-| Delivery Efficiency | 94.4% of deliveries are completed on time |
+---
 
-| Returns | Overall return rate is 2.7% |
+## 🎛️ Interactive Dashboard Filters
 
+The dashboard includes multiple filtering options for granular quick-commerce analysis[cite: 10]:
 
-
-\---
-
-
-
-\## 🎛️ Interactive Dashboard Features
-
-
-
-The dashboard includes interactive slicers for:
-
-
-
-\- \*\*Date:\*\* Analyze business performance across selected dates.
-
-\- \*\*Zone:\*\* Compare performance across geographical zones.
-
-\- \*\*City:\*\* Explore city-level business performance.
-
-\- \*\*Category:\*\* Analyze product category performance.
-
-
-
-Additional capabilities:
-
-
-
-\- Dynamic KPI cards
-
-\- Cross-filtering between visuals
-
-\- Interactive geographical analysis
-
-\- Time-based sales and order analysis
-
-\- Conditional formatting for performance indicators
-
-
-
-\---
-
-
-
-\## 🎯 Business Problems Addressed
-
-
-
-| Business Challenge | Dashboard Solution |
-
+| Filter | Purpose |
 |---|---|
+| Date | Analyze daily and period-over-period performance |
+| Zone | Compare North, West, South, East, and Central zones |
+| City | Drill down into city-level demand and delivery speed |
+| Category | Evaluate product category revenue, orders, and return rates[cite: 10] |
 
-| Limited visibility into overall business performance | Executive KPI dashboard |
+---
 
-| Difficulty identifying top-selling products | Top 5 Product Revenue Analysis |
+## 🛠️ Tools & Technologies
 
-| Unclear customer purchasing patterns | Category and revenue contribution analysis |
+The project leverages the following tools and technologies[cite: 10]:
 
-| Difficulty managing peak-hour demand | Peak Order Time Analysis |
+| Technology | Application |
+|---|---|
+| Microsoft Power BI | Interactive quick-commerce performance dashboard |
+| Power Query | Data cleaning, shaping, and transformation |
+| DAX | Day-over-day growth, AOV, SLA %, return rate, and time-slot measures |
+| Microsoft Excel | Source order, product, and logistics data preparation |
+| Data Visualization | Quick-commerce operations and executive reporting[cite: 10] |
 
-| Delivery delays and operational inefficiencies | Delivery \& Fulfillment Monitoring |
+---
+## 🚀 How to Explore the Project
 
-| High product return rates | Return Rate Analysis by Category |
+1. Download or clone this repository.
+2. Open the dataset in Microsoft Excel to explore the source data.
+3. Open the `.pbix` file using Power BI Desktop.
+4. Explore the interactive dashboard.
+5. Use the Financial Year and State filters to analyze different business periods and regions.
 
-| Limited geographical performance visibility | Zone-wise and City-wise Revenue Analysis |
+## 🎓 Skills Demonstrated
 
-| Difficulty monitoring order cancellations | Return \& Cancellation Analysis |
+- Financial Data Analysis
+- Banking KPI Analysis
+- Business Intelligence
+- Data Cleaning & Transformation
+- Power Query
+- DAX Measures
+- Data Modeling
+- Interactive Dashboard Development
+- Customer Segmentation
+- Financial Performance Reporting
+- Business Insight Generation
 
+---
 
+## 👨‍💻 Author
 
-\---
+**S. Sathiyamoorthi**
 
+Aspiring Data Analyst | Power BI Developer
+Areas of Interest: Financial Analytics | MIS Reporting | Risk & Lending Analytics | Business Intelligence | Data Visualization
 
+📊 Specialization: Financial Analytics | Business Intelligence | Data Visualization
 
-\## 🛠️ Tools \& Technologies
+🔗 LinkedIn: [www.linkedin.com/in/sathiyamoorthi-s-mis]
 
+---
 
-
-\- \*\*Power BI Desktop\*\* — Dashboard development and visualization
-
-\- \*\*Power Query\*\* — Data cleaning and transformation
-
-\- \*\*DAX\*\* — KPI calculations and business metrics
-
-\- \*\*Microsoft Excel\*\* — Source data preparation
-
-\- \*\*Data Visualization\*\* — Interactive charts, KPI cards, maps, and analytical reporting
-
-
-
-\---
-
-
-
-\## 📁 Repository Structure
-
-
+⭐ **If you find this project useful, consider giving this repository a star!**
+## 📂 Repository Structure
 
 ```text
-
 Blinkit-Grocery-Performance-Dashboard/
-
 │
-
 ├── README.md
-
 │
-
 ├── assets/
-
-│   └── Blinkit\_Grocery\_Dashboard.png
-
+│   └── screenshots/
+│       └── 01_blinkit_executive_overview.png
 │
-
 ├── dataset/
+│   └── Blinkit_Grocery_Dataset.xlsx
 
-│   └── Blinkit\_Sales\_Dataset.xlsx
-
-│
-
-├── dashboard/
-
-│   └── Blinkit\_Grocery\_Performance.pbix
-
-│
-
-└── screenshots/
-
-&#x20;   ├── Executive\_Overview.png
-
-&#x20;   └── Dashboard\_Details.png
-
-```
-
-
-
-\*Suggested repository structure. Add the corresponding files when uploading your project.\*
-
-
-
-\---
-
-
-
-\## 🚀 Project Outcomes
-
-
-
-This project demonstrates how Power BI can support quick-commerce business analysis through an interactive reporting solution.
-
-
-
-Key outcomes include:
-
-
-
-\- Improved visibility into sales and revenue performance.
-
-\- Identification of high-performing products and categories.
-
-\- Better understanding of customer purchasing patterns.
-
-\- Identification of peak ordering hours.
-
-\- Monitoring of delivery efficiency and fulfillment performance.
-
-\- Analysis of returns and order cancellations.
-
-\- Identification of high-performing geographical markets.
-
-
-
-\---
-
-
-
-\## 👨‍💻 Author
-
-
-
-\*\*Sathiyamoorthi S\*\*
-
-
-
-Power BI | Excel | SQL | Data Analytics | MIS Reporting
-
-
-
-🔗 \[LinkedIn Profile](https://www.linkedin.com/in/sathiyamoorthi-s-97194a434)
-
-
-
-\---
-
-
-
-\*This is an independent portfolio project created for educational and analytical demonstration purposes. It is not an official Blinkit business reporting system. Dashboard figures should be treated as illustrative unless independently verified against official business data.\*
+└── dashboard/
+    ├── Blinkit_Grocery_Performance.pbix
+    └── Blinkit_Grocery_Performance.pdf
 
