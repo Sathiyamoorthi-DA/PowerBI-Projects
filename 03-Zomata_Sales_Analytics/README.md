@@ -7,6 +7,7 @@
 **Business Intelligence · Sales Performance · Customer Insights · Restaurant Analytics**
 
 📅 **Reporting Period:** January 2024 – October 2026
+
 [![View Live Dashboard](https://img.shields.io/badge/🔴%20LIVE-View%20Interactive%20Dashboard-E8536A?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiY2E2OGU1ZGQtM2NhNC00NzA0LWFkODEtMWFiNzY5Njc0ZmE4IiwidCI6ImM5YzUwODQ4LWIwM2EtNGJlNC1iNjU1LTZlZGQ3ZmI4MWM1YSJ9)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
