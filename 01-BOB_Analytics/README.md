@@ -40,7 +40,8 @@ It is designed to provide management with a consolidated view of banking operati
 <br>
 *An executive-level overview of banking performance, financial KPIs, business mix, customer growth, loan composition, and geographic performance.*
 
-**### Customer-360 Dashboard**
+### Customer-360 Dashboard
+
 <img src="Screenshots/Screenshot%202026-11-23%20224314.png" alt="BOB Customer-360 Dashboard" width="100%">
 
 <br>
