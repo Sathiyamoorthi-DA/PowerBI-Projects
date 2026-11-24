@@ -34,7 +34,7 @@ The solution brings executive KPIs, shipment logs, fleet and route analytics, SL
 
 The Overview page provides management with an overall view of logistics operations through interactive KPI cards, monthly shipment and on-time delivery trends, transport mode splits, regional mapping, product volume, fleet status, delivery status by region, and recent shipment tracking[cite: 12].
 
-<img src="assets/screenshots/01_overview.png" alt="Logistics Analysis Overview Page" width="100%">
+<img src="/Screenshots/01_overview.png" alt="Logistics Analysis Overview Page" width="100%">
 
 <br>
 
@@ -42,7 +42,7 @@ The Overview page provides management with an overall view of logistics operatio
 
 The Shipment Details & Analysis view provides management with a detailed breakdown of order fulfillment and destination costs through shipment and SLA trends, logistics cost by destination city, delivery status distributions, and a searchable shipment data table[cite: 13].
 
-<img src="assets/screenshots/02_shipment_analysis.png" alt="Shipment Details & Analysis Page" width="100%">
+<img src="02-Shipment_Analysis.png" alt="Shipment Details & Analysis Page" width="100%">
 
 <br>
 
@@ -50,7 +50,7 @@ The Shipment Details & Analysis view provides management with a detailed breakdo
 
 The Fleet & Route Analysis view provides management with a clear picture of vehicle utilization, transport mix, distance traveled, and regional logistics costs alongside a detailed vehicle fleet table[cite: 14].
 
-<img src="assets/screenshots/03_fleet_route_analysis.png" alt="Fleet & Route Analysis Page" width="100%">
+<img src="03-Fleet%20%26%20Route%20analysis.png" alt="Fleet & Route Analysis Page" width="100%">
 
 <br>
 
@@ -58,7 +58,7 @@ The Fleet & Route Analysis view provides management with a clear picture of vehi
 
 The Delivery Performance view provides management with a focused look at service-level reliability through monthly on-time delivery trends, delivery status breakdowns, on-time rates by transport mode and region, and a delayed shipment log[cite: 15].
 
-<img src="assets/screenshots/04_delivery_performance.png" alt="Delivery Performance Page" width="100%">
+<img src="04-Delivery%20Performance.png" alt="Delivery Performance Page" width="100%">
 
 <br>
 
@@ -66,7 +66,7 @@ The Delivery Performance view provides management with a focused look at service
 
 The Shipment Details drillthrough view provides granular, shipment-specific diagnostics for a selected tracking ID (such as `TRK-01228`), displaying scheduled vs. actual delivery dates, delay status, quantity, revenue, distance, and full shipment records[cite: 16].
 
-<img src="assets/screenshots/05_drillthrough.png" alt="Shipment Details Drillthrough Page" width="100%">
+<img src="/Screenshots/05-Drillthrough.png" alt="Shipment Details Drillthrough Page" width="100%">
 
 <br>
 
@@ -193,7 +193,44 @@ The project leverages the following tools and technologies:
 | Data Visualization | Supply chain monitoring, SLA tracking, and operational reporting[cite: 12, 13, 14, 15] |
 
 ---
+## 🚀 How to Explore the Project
 
+1. Download or clone this repository.
+2. Open the dataset in Microsoft Excel to explore the source data.
+3. Open the `.pbix` file using Power BI Desktop.
+4. Explore the interactive dashboard.
+5. Use the Financial Year and State filters to analyze different business periods and regions.
+
+## 🎓 Skills Demonstrated
+
+- Financial Data Analysis
+- Banking KPI Analysis
+- Business Intelligence
+- Data Cleaning & Transformation
+- Power Query
+- DAX Measures
+- Data Modeling
+- Interactive Dashboard Development
+- Customer Segmentation
+- Financial Performance Reporting
+- Business Insight Generation
+
+---
+
+## 👨‍💻 Author
+
+**S. Sathiyamoorthi**
+
+Aspiring Data Analyst | Power BI Developer
+Areas of Interest: Financial Analytics | MIS Reporting | Risk & Lending Analytics | Business Intelligence | Data Visualization
+
+📊 Specialization: Financial Analytics | Business Intelligence | Data Visualization
+
+🔗 LinkedIn: [www.linkedin.com/in/sathiyamoorthi-s-mis]
+
+---
+
+⭐ **If you find this project useful, consider giving this repository a star!**
 ## 📂 Repository Structure
 
 ```text
