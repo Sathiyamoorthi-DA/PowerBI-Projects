@@ -42,7 +42,7 @@ The Overview page provides management with an overall view of logistics operatio
 
 The Shipment Details & Analysis view provides management with a detailed breakdown of order fulfillment and destination costs through shipment and SLA trends, logistics cost by destination city, delivery status distributions, and a searchable shipment data table[cite: 13].
 
-<img src="02-Shipment_Analysis.png" alt="Shipment Details & Analysis Page" width="100%">
+<img src="Screenshots/02-Shipment_Analysis.png" alt="Shipment Details & Analysis Page" width="100%">
 
 <br>
 
@@ -50,7 +50,7 @@ The Shipment Details & Analysis view provides management with a detailed breakdo
 
 The Fleet & Route Analysis view provides management with a clear picture of vehicle utilization, transport mix, distance traveled, and regional logistics costs alongside a detailed vehicle fleet table[cite: 14].
 
-<img src="03-Fleet%20%26%20Route%20analysis.png" alt="Fleet & Route Analysis Page" width="100%">
+<img src="Screenshots/03-Fleet%20%26%20Route%20analysis.png" alt="Fleet & Route Analysis Page" width="100%">
 
 <br>
 
@@ -58,7 +58,7 @@ The Fleet & Route Analysis view provides management with a clear picture of vehi
 
 The Delivery Performance view provides management with a focused look at service-level reliability through monthly on-time delivery trends, delivery status breakdowns, on-time rates by transport mode and region, and a delayed shipment log[cite: 15].
 
-<img src="04-Delivery%20Performance.png" alt="Delivery Performance Page" width="100%">
+<img src="Screenshots/04-Delivery%20Performance.png" alt="Delivery Performance Page" width="100%">
 
 <br>
 
@@ -66,7 +66,7 @@ The Delivery Performance view provides management with a focused look at service
 
 The Shipment Details drillthrough view provides granular, shipment-specific diagnostics for a selected tracking ID (such as `TRK-01228`), displaying scheduled vs. actual delivery dates, delay status, quantity, revenue, distance, and full shipment records[cite: 16].
 
-<img src="/Screenshots/05-Drillthrough.png" alt="Shipment Details Drillthrough Page" width="100%">
+<img src="Screenshots/05-Drillthrough.png" alt="Shipment Details Drillthrough Page" width="100%">
 
 <br>
 
