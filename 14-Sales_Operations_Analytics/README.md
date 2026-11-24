@@ -32,6 +32,38 @@ The dashboard is designed to answer key sales and operations business questions:
 - What are the details of individual orders?
 
 ---
+## 📷 Dashboard Preview
+
+### Sales Operations Performance
+
+<img src="Screenshots/Sales%20%26%20Operation%20(2).png" alt="Revivea Sales Analytics Executive Overview" width="100%">
+
+<br>
+
+### Employee Details
+
+<img src="Screenshots/Sales%20%26%20Operation%20(1).png" alt="Revivea Sales Analytics Executive Overview" width="100%">
+
+<br>
+
+### Employee Performance Scorecard
+
+<img src="Screenshots/Sales%20%26%20Operation%20(3).png" alt="Revivea Sales Analytics Executive Overview" width="100%">
+
+<br>
+
+### Regional Performance
+
+<img src="Screenshots/Sales%20%26%20Operation%20(4).png" alt="Revivea Sales Analytics Executive Overview" width="100%">
+
+<br>
+
+### Operations Details
+
+<img src="Screenshots/Sales%20%26%20Operation%20(5).png" alt="Revivea Sales Analytics Executive Overview" width="100%">
+
+<br>
+
 
 ## 📌 Dashboard Pages
 
@@ -260,32 +292,6 @@ This dashboard provides a centralized view of sales and operations performance a
 - Identify delayed orders and pending payments
 - Understand monthly sales and profit trends
 - Explore detailed order-level information
-
----
-
-## 📷 Dashboard Preview
-
-### Sales Operations Performance
-
-[Add Sales Operations Screenshot Here]
-
-### Employee Details
-
-[Add Employee Details Screenshot Here]
-
-### Employee Performance Scorecard
-
-[Add Employee Scorecard Screenshot Here]
-
-### Regional Performance
-
-[Add Regional Performance Screenshot Here]
-
-### Operations Details
-
-[Add Operations Details Screenshot Here]
-
----
 
 ## 👨‍💻 Project Author
 
