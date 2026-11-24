@@ -42,7 +42,7 @@ The Executive Summary provides management with an overall view of financial perf
 
 The P&L and Budget Variance view provides management with a detailed breakdown of profitability and cost performance through actual-vs-budget comparisons, operating expense variance analysis, segment EBITDA, and revenue growth trends.
 
-<img src="Screenshot%202026-11-23%20200331.png" alt="P&L Statement" width="100%">
+<img src="Screenshots/Screenshot%202026-11-23%20200331.png" alt="P&L Statement" width="100%">
 
 <br>
 
