@@ -178,7 +178,9 @@ The project uses the following tools and technologies[cite: 9]:
 
 Aspiring Data Analyst | Power BI Developer
 Areas of Interest: Financial Analytics | MIS Reporting | Risk & Lending Analytics | Business Intelligence | Data Visualization
+
 📊 Specialization: Financial Analytics | Business Intelligence | Data Visualization
+
 🔗 LinkedIn: [www.linkedin.com/in/sathiyamoorthi-s-mis]
 
 ---
